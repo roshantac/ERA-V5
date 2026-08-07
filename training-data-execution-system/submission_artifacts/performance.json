@@ -1,0 +1,32 @@
+{
+  "raw": {
+    "start_time_iso": "2026-08-07T15:01:16.914333Z",
+    "end_time_iso": "2026-08-07T15:01:16.929639Z",
+    "elapsed_seconds": 0.015305,
+    "total_batches": 35,
+    "total_samples": 140,
+    "total_tokens": 16824,
+    "context_length": 128
+  },
+  "derived": {
+    "batches_per_sec": 2286.79,
+    "samples_per_sec": 9147.17,
+    "tokens_per_sec": 1099228.38,
+    "packing_efficiency": 0.9594,
+    "avg_batch_size": 4.0,
+    "avg_sequence_utilization": 122.8
+  },
+  "elapsed_seconds": 0.015305,
+  "total_batches": 35,
+  "total_samples": 140,
+  "total_tokens": 16824,
+  "batches_per_sec": 2286.79,
+  "samples_per_sec": 9147.17,
+  "tokens_per_sec": 1099228.38,
+  "packing_efficiency": 0.9594,
+  "avg_batch_size": 4.0,
+  "avg_sequence_utilization": 122.8,
+  "context_length": 128,
+  "result": "PASS",
+  "generated_at": "2026-08-07T15:01:16.966057Z"
+}

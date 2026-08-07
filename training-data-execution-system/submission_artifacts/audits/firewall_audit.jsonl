@@ -1,0 +1,14 @@
+{"event": "SHARD_ALLOWED", "shard_id": "COMMON_CRAWL_shard_000", "dataset": "COMMON_CRAWL", "used_for": "train", "timestamp": "2026-08-07T15:01:16.881255Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "COMMON_CRAWL_shard_001", "dataset": "COMMON_CRAWL", "used_for": "train", "timestamp": "2026-08-07T15:01:16.881477Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "COMMON_CRAWL_shard_002", "dataset": "COMMON_CRAWL", "used_for": "train", "timestamp": "2026-08-07T15:01:16.881774Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "BOOKS_shard_000", "dataset": "BOOKS", "used_for": "train", "timestamp": "2026-08-07T15:01:16.881928Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "BOOKS_shard_001", "dataset": "BOOKS", "used_for": "train", "timestamp": "2026-08-07T15:01:16.882042Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "CODE_shard_000", "dataset": "CODE", "used_for": "train", "timestamp": "2026-08-07T15:01:16.882145Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "CODE_shard_001", "dataset": "CODE", "used_for": "train", "timestamp": "2026-08-07T15:01:16.882310Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "CODE_shard_002", "dataset": "CODE", "used_for": "train", "timestamp": "2026-08-07T15:01:16.882453Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "OPUS_shard_000", "dataset": "OPUS", "used_for": "train", "timestamp": "2026-08-07T15:01:16.882560Z"}
+{"event": "SHARD_ALLOWED", "shard_id": "OPUS_shard_001", "dataset": "OPUS", "used_for": "train", "timestamp": "2026-08-07T15:01:16.882784Z"}
+{"event": "FIREWALL_BLOCK", "shard_id": "EVAL_shard_000", "dataset": "EVAL", "used_for": "train_attempted", "reason": "Dataset 'EVAL' is designated eval/validation; must not enter loss-bearing training.", "timestamp": "2026-08-07T15:01:16.882937Z", "blocked": true}
+{"event": "EVAL_SHARD_USED_FOR_EVAL", "shard_id": "EVAL_shard_000", "dataset": "EVAL", "used_for": "eval", "timestamp": "2026-08-07T15:01:16.883038Z"}
+{"event": "FIREWALL_BLOCK", "shard_id": "VALIDATION_shard_000", "dataset": "VALIDATION", "used_for": "train_attempted", "reason": "Dataset 'VALIDATION' is designated eval/validation; must not enter loss-bearing training.", "timestamp": "2026-08-07T15:01:16.883136Z", "blocked": true}
+{"event": "EVAL_SHARD_USED_FOR_EVAL", "shard_id": "VALIDATION_shard_000", "dataset": "VALIDATION", "used_for": "eval", "timestamp": "2026-08-07T15:01:16.883228Z"}

@@ -1,0 +1,20 @@
+{
+  "result": "PASS",
+  "floors": [
+    {
+      "dataset": "BOOKS",
+      "planned_share": 0.15,
+      "actual_share": 0.2,
+      "floor": 0.1,
+      "pass": true
+    },
+    {
+      "dataset": "OPUS",
+      "planned_share": 0.1,
+      "actual_share": 0.0571,
+      "floor": 0.05,
+      "pass": true
+    }
+  ],
+  "generated_at": "2026-08-07T15:01:16.930967Z"
+}

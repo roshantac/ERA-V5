@@ -1,0 +1,141 @@
+{
+  "result": "PASS",
+  "shards_checked": 12,
+  "failures": [],
+  "details": [
+    {
+      "shard_id": "COMMON_CRAWL_shard_000",
+      "dataset": "COMMON_CRAWL",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_001",
+      "dataset": "COMMON_CRAWL",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_002",
+      "dataset": "COMMON_CRAWL",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "BOOKS_shard_000",
+      "dataset": "BOOKS",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "BOOKS_shard_001",
+      "dataset": "BOOKS",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "CODE_shard_000",
+      "dataset": "CODE",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "CODE_shard_001",
+      "dataset": "CODE",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "CODE_shard_002",
+      "dataset": "CODE",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "OPUS_shard_000",
+      "dataset": "OPUS",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "OPUS_shard_001",
+      "dataset": "OPUS",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "EVAL_shard_000",
+      "dataset": "EVAL",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "shard_id": "VALIDATION_shard_000",
+      "dataset": "VALIDATION",
+      "file_exists": true,
+      "doc_count_match": true,
+      "content_hash_match": true,
+      "tokenizer_hash_match": true,
+      "metadata_consistent": true,
+      "errors": [],
+      "passed": true
+    }
+  ],
+  "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+  "generated_at": "2026-08-07T15:01:16.880685Z"
+}

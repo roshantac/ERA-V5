@@ -1,0 +1,314 @@
+{
+  "manifest": {
+    "shard_id": "CODE_shard_000",
+    "dataset": "CODE",
+    "document_count": 30,
+    "content_hash": "ac65ee4a1e27a418bedd655958d3c0265d7aa94e2997265c8a0bb484139ffa34",
+    "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+    "shard_index": 0,
+    "is_eval": false,
+    "created_at": "2026-08-07T15:01:16.872261Z"
+  },
+  "documents": [
+    {
+      "doc_id": "CODE_00000",
+      "dataset": "CODE",
+      "text": "data language epoch dog quick attention optimizer schedule training fine dataset training the deterministic language weight corpus shard checkpoint loss tuning loss pipeline book manifest training floor book replay pretraining corpus verify dog replay tuning brown model hash code dog epoch quick attention text audit layer pretraining neural over dataset fox crawl shard sequence web parameter layer mixture schedule rate sequence quick over language",
+      "meta": {
+        "source": "CODE",
+        "index": 0,
+        "word_count": 64
+      }
+    },
+    {
+      "doc_id": "CODE_00001",
+      "dataset": "CODE",
+      "text": "hash manifest over weight attention sequence optimizer dataset crawl crawl weight fox manifest network attention training checkpoint embedding network transformer network the loss neural neural epoch pretraining code over batch replay pretraining deterministic head floor pretraining loss data floor replay embedding replay head model audit web crawl over training batch epoch tuning parameter corpus jumps web pipeline transformer",
+      "meta": {
+        "source": "CODE",
+        "index": 1,
+        "word_count": 58
+      }
+    },
+    {
+      "doc_id": "CODE_00002",
+      "dataset": "CODE",
+      "text": "the head document rate head token code fine checkpoint book pipeline model sequence token audit transformer loss code optimizer brown protected protected epoch audit web epoch optimizer code deterministic fine layer quick mixture the training",
+      "meta": {
+        "source": "CODE",
+        "index": 2,
+        "word_count": 35
+      }
+    },
+    {
+      "doc_id": "CODE_00003",
+      "dataset": "CODE",
+      "text": "epoch document audit document tuning dog shard manifest loss head token optimizer verify shard gradient quick dog pipeline rate optimizer jumps crawl deterministic network web tuning book embedding learning document hash tuning verify protected dog network weight replay book quick learning data web fox training dataset",
+      "meta": {
+        "source": "CODE",
+        "index": 3,
+        "word_count": 46
+      }
+    },
+    {
+      "doc_id": "CODE_00004",
+      "dataset": "CODE",
+      "text": "verify model neural data fox rate network head document neural fox loss loss parameter document jumps weight sequence schedule document token pipeline lazy crawl pipeline data language dataset dataset protected hash floor epoch rate hash verify verify network lazy language web neural protected training the model parameter loss network schedule optimizer head corpus data lazy batch training weight layer",
+      "meta": {
+        "source": "CODE",
+        "index": 4,
+        "word_count": 59
+      }
+    },
+    {
+      "doc_id": "CODE_00005",
+      "dataset": "CODE",
+      "text": "mixture code text verify audit parameter language checkpoint code verify pipeline floor dog head fine jumps dog protected model quick tuning neural epoch verify network model protected pretraining crawl parameter pipeline corpus token checkpoint epoch quick deterministic protected dog layer model verify",
+      "meta": {
+        "source": "CODE",
+        "index": 5,
+        "word_count": 42
+      }
+    },
+    {
+      "doc_id": "CODE_00006",
+      "dataset": "CODE",
+      "text": "verify layer epoch model batch model over embedding verify pipeline mixture dog jumps quick schedule tuning pipeline embedding brown sequence lazy brown mixture manifest weight web fox tuning dog learning brown jumps epoch manifest the pipeline lazy mixture dog",
+      "meta": {
+        "source": "CODE",
+        "index": 6,
+        "word_count": 39
+      }
+    },
+    {
+      "doc_id": "CODE_00007",
+      "dataset": "CODE",
+      "text": "batch web sequence token manifest neural quick over training deterministic rate web neural neural data weight schedule replay text gradient weight book jumps lazy protected web pipeline the parameter batch checkpoint sequence loss data pipeline language the replay lazy batch weight checkpoint tuning network verify web token pretraining hash lazy token audit neural transformer embedding batch weight layer head dog pipeline dataset dog fine dog parameter model optimizer",
+      "meta": {
+        "source": "CODE",
+        "index": 7,
+        "word_count": 68
+      }
+    },
+    {
+      "doc_id": "CODE_00008",
+      "dataset": "CODE",
+      "text": "network checkpoint loss code replay brown over dataset optimizer dog transformer loss fine crawl deterministic epoch hash audit pretraining layer code head loss embedding sequence jumps audit floor tuning hash network token the hash optimizer hash lazy attention pretraining parameter manifest hash over dog training attention attention verify web lazy deterministic data jumps network sequence corpus sequence crawl attention dog layer audit embedding replay optimizer rate pipeline checkpoint schedule web web rate pipeline mixture floor shard attention neural",
+      "meta": {
+        "source": "CODE",
+        "index": 8,
+        "word_count": 78
+      }
+    },
+    {
+      "doc_id": "CODE_00009",
+      "dataset": "CODE",
+      "text": "manifest crawl attention optimizer weight rate training schedule fine lazy dog learning optimizer optimizer layer document model quick lazy deterministic fox audit jumps optimizer hash quick token transformer crawl hash dataset training epoch text text lazy pipeline jumps manifest pipeline parameter schedule optimizer mixture fine sequence loss manifest optimizer optimizer weight learning language corpus floor language language quick pipeline brown",
+      "meta": {
+        "source": "CODE",
+        "index": 9,
+        "word_count": 60
+      }
+    },
+    {
+      "doc_id": "CODE_00010",
+      "dataset": "CODE",
+      "text": "dog transformer pretraining dataset transformer pretraining fine brown brown token code manifest schedule epoch checkpoint data optimizer embedding model epoch checkpoint transformer optimizer pipeline dog book hash optimizer manifest code hash language book tuning tuning code data weight fox attention learning optimizer web transformer text hash neural schedule loss dataset fox quick web brown model audit network",
+      "meta": {
+        "source": "CODE",
+        "index": 10,
+        "word_count": 57
+      }
+    },
+    {
+      "doc_id": "CODE_00011",
+      "dataset": "CODE",
+      "text": "floor deterministic web quick pipeline document corpus transformer lazy embedding neural neural head neural fox manifest gradient gradient gradient shard epoch web over verify jumps epoch dog corpus data quick language dataset brown fine manifest embedding book weight head rate quick verify tuning web quick dataset transformer book transformer dataset book lazy",
+      "meta": {
+        "source": "CODE",
+        "index": 11,
+        "word_count": 52
+      }
+    },
+    {
+      "doc_id": "CODE_00012",
+      "dataset": "CODE",
+      "text": "lazy verify hash batch corpus optimizer weight floor pipeline manifest corpus data text epoch network embedding sequence optimizer document mixture jumps audit language batch loss learning fox epoch book attention floor layer text deterministic over checkpoint web lazy web corpus rate jumps book floor parameter tuning embedding batch neural mixture jumps shard protected epoch weight floor epoch embedding manifest language dataset",
+      "meta": {
+        "source": "CODE",
+        "index": 12,
+        "word_count": 61
+      }
+    },
+    {
+      "doc_id": "CODE_00013",
+      "dataset": "CODE",
+      "text": "head attention learning text weight fine manifest pipeline code token quick document checkpoint parameter token book optimizer batch manifest protected deterministic fine rate document language floor text schedule embedding book replay document fox parameter sequence network fine training gradient training deterministic hash",
+      "meta": {
+        "source": "CODE",
+        "index": 13,
+        "word_count": 42
+      }
+    },
+    {
+      "doc_id": "CODE_00014",
+      "dataset": "CODE",
+      "text": "epoch embedding head dataset audit jumps document batch head rate protected loss shard data learning hash crawl gradient attention gradient dog training sequence quick gradient floor protected epoch fine optimizer code embedding embedding shard brown sequence data rate model quick learning mixture floor rate manifest code token shard brown replay optimizer mixture quick fox over dataset crawl epoch jumps head network manifest manifest over attention audit replay audit model gradient dog book deterministic weight dog parameter manifest audit",
+      "meta": {
+        "source": "CODE",
+        "index": 14,
+        "word_count": 78
+      }
+    },
+    {
+      "doc_id": "CODE_00015",
+      "dataset": "CODE",
+      "text": "schedule parameter learning optimizer over gradient crawl dog schedule floor dataset corpus audit web deterministic transformer floor deterministic deterministic gradient embedding batch training lazy token batch rate pretraining head learning web fox optimizer language network verify dog dataset language embedding tuning hash gradient rate mixture training network tuning checkpoint network protected epoch quick shard crawl brown audit deterministic manifest floor fox verify mixture manifest gradient learning code",
+      "meta": {
+        "source": "CODE",
+        "index": 15,
+        "word_count": 67
+      }
+    },
+    {
+      "doc_id": "CODE_00016",
+      "dataset": "CODE",
+      "text": "epoch document verify network floor hash dog language gradient pretraining transformer the attention learning epoch over protected pipeline gradient epoch batch data pretraining document dataset floor schedule shard head mixture brown rate over protected schedule optimizer tuning deterministic head audit corpus checkpoint embedding protected lazy protected data verify learning weight jumps neural head crawl",
+      "meta": {
+        "source": "CODE",
+        "index": 16,
+        "word_count": 54
+      }
+    },
+    {
+      "doc_id": "CODE_00017",
+      "dataset": "CODE",
+      "text": "protected code deterministic dataset fine verify quick pipeline fox shard shard token document pretraining mixture shard model the attention sequence document epoch dataset book over dog data gradient parameter checkpoint schedule audit shard pipeline model crawl hash head mixture dataset pretraining tuning deterministic model learning token hash web protected dataset floor loss sequence over head network token attention transformer audit book layer quick quick code shard text document layer over fine sequence learning verify data fox",
+      "meta": {
+        "source": "CODE",
+        "index": 17,
+        "word_count": 76
+      }
+    },
+    {
+      "doc_id": "CODE_00018",
+      "dataset": "CODE",
+      "text": "text embedding crawl learning training over network data book dog the checkpoint parameter embedding schedule fine protected hash optimizer dog layer checkpoint batch sequence protected mixture rate loss deterministic optimizer transformer model embedding batch crawl batch protected loss replay hash sequence head token head mixture training quick loss learning gradient text pretraining gradient network web",
+      "meta": {
+        "source": "CODE",
+        "index": 18,
+        "word_count": 55
+      }
+    },
+    {
+      "doc_id": "CODE_00019",
+      "dataset": "CODE",
+      "text": "shard fine over the tuning model dataset verify attention hash batch checkpoint transformer checkpoint embedding deterministic crawl learning jumps lazy code fox fox corpus gradient tuning neural crawl manifest floor crawl checkpoint deterministic floor brown the learning weight text transformer epoch attention manifest network model code brown web token learning data weight optimizer corpus fine model over dataset checkpoint parameter embedding training learning dog dataset brown model optimizer audit rate deterministic network embedding",
+      "meta": {
+        "source": "CODE",
+        "index": 19,
+        "word_count": 73
+      }
+    },
+    {
+      "doc_id": "CODE_00020",
+      "dataset": "CODE",
+      "text": "learning text audit pipeline learning parameter dataset embedding data dataset deterministic optimizer pipeline training code manifest document floor pretraining fox sequence training fox layer token brown tuning learning data checkpoint fine embedding dog optimizer brown pretraining neural checkpoint code optimizer fine optimizer dog replay training dog neural over",
+      "meta": {
+        "source": "CODE",
+        "index": 20,
+        "word_count": 48
+      }
+    },
+    {
+      "doc_id": "CODE_00021",
+      "dataset": "CODE",
+      "text": "loss token audit data deterministic weight protected rate book manifest web batch web the parameter schedule book token head jumps gradient schedule optimizer hash lazy corpus quick loss hash hash dog attention network web lazy audit dataset training quick over fine audit checkpoint",
+      "meta": {
+        "source": "CODE",
+        "index": 21,
+        "word_count": 43
+      }
+    },
+    {
+      "doc_id": "CODE_00022",
+      "dataset": "CODE",
+      "text": "tuning fine document rate crawl manifest the corpus brown shard text pretraining dataset replay replay floor book model batch fox floor shard loss dataset floor fox deterministic jumps code crawl transformer over attention learning token gradient schedule attention over quick batch data transformer schedule attention loss shard pipeline shard training dog epoch optimizer floor embedding deterministic floor epoch hash crawl model neural manifest lazy audit network weight sequence optimizer pretraining transformer tuning",
+      "meta": {
+        "source": "CODE",
+        "index": 22,
+        "word_count": 72
+      }
+    },
+    {
+      "doc_id": "CODE_00023",
+      "dataset": "CODE",
+      "text": "book crawl embedding over pipeline embedding floor network text token embedding document embedding over brown weight corpus fine hash layer shard hash checkpoint training optimizer parameter document shard parameter over loss fine embedding over floor tuning epoch training model hash epoch audit gradient parameter embedding loss book",
+      "meta": {
+        "source": "CODE",
+        "index": 23,
+        "word_count": 47
+      }
+    },
+    {
+      "doc_id": "CODE_00024",
+      "dataset": "CODE",
+      "text": "code jumps brown weight lazy weight embedding head lazy fine manifest replay book protected learning neural learning web over schedule weight quick dog deterministic manifest fine token mixture token audit attention brown over",
+      "meta": {
+        "source": "CODE",
+        "index": 24,
+        "word_count": 33
+      }
+    },
+    {
+      "doc_id": "CODE_00025",
+      "dataset": "CODE",
+      "text": "checkpoint epoch dataset web replay fine pipeline manifest pretraining text floor learning corpus floor token batch token over deterministic crawl learning hash lazy embedding language quick the attention dog the data shard tuning fine verify attention manifest deterministic crawl replay optimizer epoch text protected text network verify hash verify hash attention floor epoch over model model",
+      "meta": {
+        "source": "CODE",
+        "index": 25,
+        "word_count": 56
+      }
+    },
+    {
+      "doc_id": "CODE_00026",
+      "dataset": "CODE",
+      "text": "sequence dog protected quick verify sequence quick batch tuning shard training shard gradient embedding audit document mixture language sequence over epoch schedule fine training tuning embedding quick dog data training",
+      "meta": {
+        "source": "CODE",
+        "index": 26,
+        "word_count": 30
+      }
+    },
+    {
+      "doc_id": "CODE_00027",
+      "dataset": "CODE",
+      "text": "verify pretraining optimizer tuning quick pretraining web gradient sequence loss book audit audit attention fox corpus the lazy document checkpoint embedding head optimizer deterministic web crawl replay code loss brown optimizer attention optimizer weight web replay text hash protected optimizer layer checkpoint fox parameter quick embedding book dataset code jumps rate shard head tuning dog optimizer text shard neural pretraining verify embedding quick data loss replay sequence tuning neural pretraining layer weight layer web hash corpus crawl",
+      "meta": {
+        "source": "CODE",
+        "index": 27,
+        "word_count": 77
+      }
+    },
+    {
+      "doc_id": "CODE_00028",
+      "dataset": "CODE",
+      "text": "manifest fine model loss replay checkpoint transformer head audit hash shard deterministic network mixture tuning floor data text batch loss verify deterministic over manifest tuning model token sequence data crawl optimizer lazy mixture head optimizer epoch gradient batch code fox quick neural learning neural hash data token protected weight brown floor jumps corpus embedding dog text layer dog code layer optimizer learning corpus mixture neural schedule brown schedule code rate training verify weight crawl manifest",
+      "meta": {
+        "source": "CODE",
+        "index": 28,
+        "word_count": 75
+      }
+    },
+    {
+      "doc_id": "CODE_00029",
+      "dataset": "CODE",
+      "text": "checkpoint fox pretraining floor fine audit pipeline dog lazy mixture text text mixture lazy protected code brown weight lazy data document dog batch network data replay loss checkpoint pretraining pipeline weight optimizer replay lazy training shard",
+      "meta": {
+        "source": "CODE",
+        "index": 29,
+        "word_count": 36
+      }
+    }
+  ]
+}

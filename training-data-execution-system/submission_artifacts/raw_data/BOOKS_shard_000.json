@@ -1,0 +1,314 @@
+{
+  "manifest": {
+    "shard_id": "BOOKS_shard_000",
+    "dataset": "BOOKS",
+    "document_count": 30,
+    "content_hash": "c03594751916eb5b308e510da9dc3edf06cc29d82e06d56c52ed46c1a7f5c2c9",
+    "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+    "shard_index": 0,
+    "is_eval": false,
+    "created_at": "2026-08-07T15:01:16.869805Z"
+  },
+  "documents": [
+    {
+      "doc_id": "BOOKS_00000",
+      "dataset": "BOOKS",
+      "text": "jumps weight shard rate batch training token data network crawl checkpoint protected dog manifest layer head floor corpus replay dog tuning hash tuning tuning batch web data shard audit head quick gradient brown model book web data model document weight brown book training fox",
+      "meta": {
+        "source": "BOOKS",
+        "index": 0,
+        "word_count": 44
+      }
+    },
+    {
+      "doc_id": "BOOKS_00001",
+      "dataset": "BOOKS",
+      "text": "learning token parameter attention crawl book document quick replay replay manifest protected loss over batch pretraining crawl tuning tuning data layer audit head crawl training mixture web protected schedule token text manifest weight learning data replay hash corpus fine crawl",
+      "meta": {
+        "source": "BOOKS",
+        "index": 1,
+        "word_count": 40
+      }
+    },
+    {
+      "doc_id": "BOOKS_00002",
+      "dataset": "BOOKS",
+      "text": "jumps layer transformer transformer model lazy quick sequence parameter weight hash head protected training crawl lazy token tuning text crawl brown mixture language weight pipeline dog over tuning manifest model crawl language protected the schedule hash shard embedding parameter head network brown verify parameter embedding layer floor tuning mixture schedule transformer neural web floor deterministic pipeline audit verify book lazy embedding model learning tuning schedule layer over",
+      "meta": {
+        "source": "BOOKS",
+        "index": 2,
+        "word_count": 67
+      }
+    },
+    {
+      "doc_id": "BOOKS_00003",
+      "dataset": "BOOKS",
+      "text": "crawl language head learning sequence the checkpoint deterministic mixture the book parameter dog parameter the transformer shard batch verify floor dataset head network lazy training embedding shard web learning learning language embedding book network text rate hash attention pipeline batch head code mixture code tuning token network code",
+      "meta": {
+        "source": "BOOKS",
+        "index": 3,
+        "word_count": 48
+      }
+    },
+    {
+      "doc_id": "BOOKS_00004",
+      "dataset": "BOOKS",
+      "text": "tuning learning epoch book neural schedule checkpoint attention deterministic model manifest dog deterministic layer pretraining mixture verify data lazy batch weight attention mixture corpus floor code text verify hash checkpoint fox data transformer document the floor over protected training tuning crawl embedding over jumps learning layer network over crawl brown replay transformer attention text shard parameter loss checkpoint crawl fox schedule protected token document optimizer",
+      "meta": {
+        "source": "BOOKS",
+        "index": 4,
+        "word_count": 65
+      }
+    },
+    {
+      "doc_id": "BOOKS_00005",
+      "dataset": "BOOKS",
+      "text": "the sequence manifest floor parameter loss sequence brown mixture crawl weight parameter verify layer text data hash brown network gradient shard the data over rate schedule attention neural manifest attention attention web sequence parameter the deterministic checkpoint jumps over code loss replay audit code web neural neural protected rate layer crawl sequence fine attention book the learning token",
+      "meta": {
+        "source": "BOOKS",
+        "index": 5,
+        "word_count": 58
+      }
+    },
+    {
+      "doc_id": "BOOKS_00006",
+      "dataset": "BOOKS",
+      "text": "weight lazy code jumps weight loss corpus dog floor weight learning language protected mixture book learning verify pretraining transformer book tuning schedule gradient pipeline corpus schedule fine hash fine web quick tuning dog learning jumps transformer document mixture layer hash verify layer floor dataset head neural parameter language the verify audit learning gradient loss over attention",
+      "meta": {
+        "source": "BOOKS",
+        "index": 6,
+        "word_count": 56
+      }
+    },
+    {
+      "doc_id": "BOOKS_00007",
+      "dataset": "BOOKS",
+      "text": "deterministic protected corpus jumps code token tuning dataset neural batch book rate token deterministic hash sequence optimizer deterministic sequence gradient deterministic gradient learning batch layer sequence audit gradient audit text neural training schedule lazy dog over hash manifest optimizer text the pipeline language brown tuning network text dataset optimizer book rate optimizer token pipeline weight rate attention layer pipeline book model fox parameter floor embedding tuning language brown weight neural attention hash schedule",
+      "meta": {
+        "source": "BOOKS",
+        "index": 7,
+        "word_count": 73
+      }
+    },
+    {
+      "doc_id": "BOOKS_00008",
+      "dataset": "BOOKS",
+      "text": "fine dog verify parameter fine dataset verify the the hash batch transformer web lazy dataset network text learning token code learning gradient rate tuning text corpus network token optimizer embedding batch head verify pipeline network network attention rate pretraining token book",
+      "meta": {
+        "source": "BOOKS",
+        "index": 8,
+        "word_count": 41
+      }
+    },
+    {
+      "doc_id": "BOOKS_00009",
+      "dataset": "BOOKS",
+      "text": "book hash layer protected lazy replay rate floor gradient code embedding transformer sequence training floor deterministic training tuning floor the token head optimizer model document parameter language replay dataset mixture optimizer epoch learning code book fox attention lazy",
+      "meta": {
+        "source": "BOOKS",
+        "index": 9,
+        "word_count": 38
+      }
+    },
+    {
+      "doc_id": "BOOKS_00010",
+      "dataset": "BOOKS",
+      "text": "data fox batch protected learning tuning audit document lazy pretraining deterministic corpus learning network network code code floor learning neural quick head dog neural hash crawl sequence book book shard shard language token schedule loss neural dataset hash weight optimizer schedule deterministic pretraining over transformer text loss fine document training data document floor corpus head document text book attention jumps over data corpus layer dataset dataset shard loss checkpoint rate crawl shard attention rate",
+      "meta": {
+        "source": "BOOKS",
+        "index": 10,
+        "word_count": 74
+      }
+    },
+    {
+      "doc_id": "BOOKS_00011",
+      "dataset": "BOOKS",
+      "text": "schedule network deterministic web parameter pretraining head data token quick model replay gradient manifest learning deterministic verify deterministic over batch data attention lazy lazy jumps tuning code fox quick schedule attention parameter pipeline over lazy learning text training over shard transformer epoch layer gradient deterministic loss pretraining document model model parameter audit data quick brown manifest neural dataset",
+      "meta": {
+        "source": "BOOKS",
+        "index": 11,
+        "word_count": 58
+      }
+    },
+    {
+      "doc_id": "BOOKS_00012",
+      "dataset": "BOOKS",
+      "text": "fine language rate code pretraining model verify language token web crawl fine document deterministic document book embedding parameter document document language epoch neural tuning language layer floor over pretraining epoch network head learning training epoch the the parameter protected pipeline model neural loss tuning language the verify optimizer pipeline tuning epoch the schedule embedding floor loss crawl layer mixture the",
+      "meta": {
+        "source": "BOOKS",
+        "index": 12,
+        "word_count": 60
+      }
+    },
+    {
+      "doc_id": "BOOKS_00013",
+      "dataset": "BOOKS",
+      "text": "network sequence head code embedding attention gradient data checkpoint deterministic shard transformer audit transformer layer learning over embedding document gradient parameter pipeline floor text floor verify hash rate loss shard deterministic language floor rate head sequence jumps token model loss dog document fine text pretraining rate verify text optimizer sequence dataset quick training fox language quick token lazy loss rate model checkpoint pretraining replay the",
+      "meta": {
+        "source": "BOOKS",
+        "index": 13,
+        "word_count": 65
+      }
+    },
+    {
+      "doc_id": "BOOKS_00014",
+      "dataset": "BOOKS",
+      "text": "over training the optimizer batch corpus head epoch mixture floor optimizer network fine verify mixture brown corpus over audit pipeline training fox rate schedule attention jumps language tuning token sequence audit learning protected transformer audit the dog schedule checkpoint gradient transformer schedule pretraining gradient",
+      "meta": {
+        "source": "BOOKS",
+        "index": 14,
+        "word_count": 44
+      }
+    },
+    {
+      "doc_id": "BOOKS_00015",
+      "dataset": "BOOKS",
+      "text": "brown sequence fine deterministic schedule lazy parameter manifest batch tuning transformer hash epoch dataset data document replay brown deterministic code parameter dog learning tuning document epoch sequence network fox manifest batch dog gradient document embedding dataset the data mixture rate web dog attention mixture gradient the brown web mixture verify tuning verify crawl training network schedule over gradient data optimizer over hash text corpus pipeline document fox fox neural shard training verify language mixture lazy model optimizer",
+      "meta": {
+        "source": "BOOKS",
+        "index": 15,
+        "word_count": 77
+      }
+    },
+    {
+      "doc_id": "BOOKS_00016",
+      "dataset": "BOOKS",
+      "text": "dataset code mixture shard pipeline neural floor pretraining replay sequence quick verify transformer neural replay model learning brown optimizer checkpoint pretraining code loss language verify optimizer sequence book token language neural dataset replay fine rate audit crawl code data jumps parameter training pretraining loss",
+      "meta": {
+        "source": "BOOKS",
+        "index": 16,
+        "word_count": 44
+      }
+    },
+    {
+      "doc_id": "BOOKS_00017",
+      "dataset": "BOOKS",
+      "text": "language network fine the schedule document weight transformer replay token quick text network schedule text gradient dataset replay jumps manifest language protected transformer sequence parameter hash optimizer schedule code training text loss dataset head shard dataset dog lazy parameter manifest jumps brown audit model token brown",
+      "meta": {
+        "source": "BOOKS",
+        "index": 17,
+        "word_count": 46
+      }
+    },
+    {
+      "doc_id": "BOOKS_00018",
+      "dataset": "BOOKS",
+      "text": "lazy optimizer sequence lazy brown book shard audit transformer manifest optimizer parameter text verify web learning fox network layer crawl checkpoint jumps the batch shard optimizer audit over fine floor document fox network code deterministic head protected network mixture checkpoint fox protected",
+      "meta": {
+        "source": "BOOKS",
+        "index": 18,
+        "word_count": 42
+      }
+    },
+    {
+      "doc_id": "BOOKS_00019",
+      "dataset": "BOOKS",
+      "text": "rate parameter brown replay jumps audit epoch jumps batch parameter lazy lazy replay layer language transformer sequence sequence parameter manifest gradient book document token code deterministic code head deterministic lazy schedule document book neural hash fine verify manifest embedding lazy data mixture token code attention weight corpus manifest data language crawl pretraining neural dataset code dataset network head pipeline document embedding protected replay dataset crawl gradient book language batch",
+      "meta": {
+        "source": "BOOKS",
+        "index": 19,
+        "word_count": 69
+      }
+    },
+    {
+      "doc_id": "BOOKS_00020",
+      "dataset": "BOOKS",
+      "text": "schedule code deterministic learning network pretraining pretraining attention the replay brown loss crawl quick parameter model epoch the epoch layer batch dataset quick schedule protected verify protected rate code weight code book book training lazy brown fine neural training model learning network web gradient layer learning floor epoch over book attention book batch replay",
+      "meta": {
+        "source": "BOOKS",
+        "index": 20,
+        "word_count": 54
+      }
+    },
+    {
+      "doc_id": "BOOKS_00021",
+      "dataset": "BOOKS",
+      "text": "replay dataset mixture tuning token optimizer protected verify verify book protected lazy crawl shard epoch brown replay floor book transformer over schedule fox schedule corpus neural protected embedding head dog schedule layer deterministic shard",
+      "meta": {
+        "source": "BOOKS",
+        "index": 21,
+        "word_count": 34
+      }
+    },
+    {
+      "doc_id": "BOOKS_00022",
+      "dataset": "BOOKS",
+      "text": "the document schedule document transformer fox epoch parameter brown dataset language book training dataset weight verify layer training fox hash replay attention pretraining pipeline crawl book weight over layer embedding loss mixture attention training model corpus over tuning book deterministic fox code attention learning over attention weight embedding schedule verify model pipeline model tuning code sequence optimizer attention shard book sequence code text deterministic parameter gradient gradient jumps",
+      "meta": {
+        "source": "BOOKS",
+        "index": 22,
+        "word_count": 68
+      }
+    },
+    {
+      "doc_id": "BOOKS_00023",
+      "dataset": "BOOKS",
+      "text": "schedule embedding dataset hash book over dog manifest head embedding network neural sequence dataset neural crawl shard quick schedule epoch data neural text protected floor pretraining text training pretraining brown protected layer sequence hash network training pipeline replay over dog deterministic fox gradient text training audit protected",
+      "meta": {
+        "source": "BOOKS",
+        "index": 23,
+        "word_count": 47
+      }
+    },
+    {
+      "doc_id": "BOOKS_00024",
+      "dataset": "BOOKS",
+      "text": "the corpus verify floor dog epoch pretraining tuning quick corpus batch deterministic language batch batch language parameter pipeline learning code tuning text replay training verify verify manifest quick transformer web manifest parameter brown learning data fox loss sequence mixture verify text rate fox fine shard the jumps transformer",
+      "meta": {
+        "source": "BOOKS",
+        "index": 24,
+        "word_count": 48
+      }
+    },
+    {
+      "doc_id": "BOOKS_00025",
+      "dataset": "BOOKS",
+      "text": "rate manifest manifest network lazy quick loss shard transformer layer transformer weight checkpoint lazy dataset optimizer crawl language over token sequence weight fine code checkpoint quick brown gradient parameter epoch corpus optimizer attention deterministic data quick neural hash neural neural document epoch gradient weight rate floor fox document learning transformer protected quick code rate layer training corpus attention manifest model over replay transformer parameter hash text document hash layer head gradient book",
+      "meta": {
+        "source": "BOOKS",
+        "index": 25,
+        "word_count": 72
+      }
+    },
+    {
+      "doc_id": "BOOKS_00026",
+      "dataset": "BOOKS",
+      "text": "embedding epoch crawl corpus pretraining language model batch shard model web language hash floor sequence model epoch verify checkpoint parameter model embedding schedule training shard book data dataset jumps code language replay dog token dataset audit training replay quick",
+      "meta": {
+        "source": "BOOKS",
+        "index": 26,
+        "word_count": 39
+      }
+    },
+    {
+      "doc_id": "BOOKS_00027",
+      "dataset": "BOOKS",
+      "text": "dataset head head epoch pretraining deterministic protected document deterministic rate training schedule sequence lazy model token quick pipeline text text rate crawl book text layer crawl layer layer hash quick neural over verify schedule tuning model weight crawl tuning checkpoint shard network token transformer optimizer tuning model data sequence layer brown head pipeline the rate head layer deterministic manifest sequence pipeline batch jumps token pretraining text optimizer verify dataset fine gradient embedding attention schedule brown crawl deterministic protected",
+      "meta": {
+        "source": "BOOKS",
+        "index": 27,
+        "word_count": 78
+      }
+    },
+    {
+      "doc_id": "BOOKS_00028",
+      "dataset": "BOOKS",
+      "text": "replay dataset attention text deterministic book crawl language parameter shard checkpoint mixture brown parameter lazy pretraining fine protected brown gradient parameter language attention deterministic brown code transformer parameter pipeline document fox sequence loss pretraining attention epoch schedule protected loss fine data embedding loss text fox verify parameter training fine audit shard pretraining over replay",
+      "meta": {
+        "source": "BOOKS",
+        "index": 28,
+        "word_count": 54
+      }
+    },
+    {
+      "doc_id": "BOOKS_00029",
+      "dataset": "BOOKS",
+      "text": "dog token schedule web verify language model attention head dataset pretraining quick token fine web checkpoint sequence fine over learning dataset verify shard checkpoint mixture data checkpoint replay dog over dog checkpoint pretraining document network over parameter checkpoint transformer replay mixture weight text data transformer code transformer brown schedule data corpus book manifest training data training token schedule checkpoint fox head epoch",
+      "meta": {
+        "source": "BOOKS",
+        "index": 29,
+        "word_count": 62
+      }
+    }
+  ]
+}

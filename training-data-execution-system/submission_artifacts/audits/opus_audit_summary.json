@@ -1,0 +1,13 @@
+{
+  "candidates_seen": 40,
+  "accepted": 21,
+  "deferred": 4,
+  "rejected": 15,
+  "acceptance_ratio": 0.525,
+  "floor_override": false,
+  "threshold": 0.5,
+  "defer_threshold": 0.35,
+  "audit_trail": "submission_artifacts/audits/opus_audit_trail.jsonl",
+  "result": "PASS",
+  "generated_at": "2026-08-07T15:01:16.887360Z"
+}

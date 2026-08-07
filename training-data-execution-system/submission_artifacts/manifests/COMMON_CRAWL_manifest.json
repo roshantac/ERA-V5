@@ -1,0 +1,39 @@
+{
+  "dataset": "COMMON_CRAWL",
+  "doc_count": 120,
+  "num_shards": 3,
+  "is_eval": false,
+  "dataset_hash": "3433d6997c243e8db4a0c7eda0d3443107f0867896ece64ae7a1d316edf6ee17",
+  "shards": [
+    {
+      "shard_id": "COMMON_CRAWL_shard_000",
+      "dataset": "COMMON_CRAWL",
+      "document_count": 40,
+      "content_hash": "03e13862ed2dda16eb2cf0d45eafffabb7266616c132914664d82c4b92afd308",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "shard_index": 0,
+      "is_eval": false,
+      "created_at": "2026-08-07T15:01:16.866070Z"
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_001",
+      "dataset": "COMMON_CRAWL",
+      "document_count": 40,
+      "content_hash": "e588e62f1d50df3d42baa40cad6fe72d802dac81b4e0fb26c406f7978f3ae6cf",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "shard_index": 1,
+      "is_eval": false,
+      "created_at": "2026-08-07T15:01:16.867325Z"
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_002",
+      "dataset": "COMMON_CRAWL",
+      "document_count": 40,
+      "content_hash": "ac368a4faab5335d2b5d2ec5e1847b1ee6280909ac465d6c52301574397a13f0",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "shard_index": 2,
+      "is_eval": false,
+      "created_at": "2026-08-07T15:01:16.868059Z"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "checkpoint_batch": "batch_000022",
+  "expected_next_batch": "batch_000023",
+  "actual_resumed_batch": "batch_000023",
+  "duplicate_detected": false,
+  "duplicates": [],
+  "skipped_batch_detected": false,
+  "result": "PASS",
+  "generated_at": "2026-08-07T15:01:16.930075Z"
+}

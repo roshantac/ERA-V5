@@ -1,0 +1,29 @@
+{
+  "dataset": "OPUS",
+  "doc_count": 40,
+  "num_shards": 2,
+  "is_eval": false,
+  "dataset_hash": "283c6ef58e8e88ebaece0ea5336602e04527df6a58dda7c94904b97808a55321",
+  "shards": [
+    {
+      "shard_id": "OPUS_shard_000",
+      "dataset": "OPUS",
+      "document_count": 20,
+      "content_hash": "b05684f28e1ddb0a35f13006f2c6fecf840f3509a2eabb11bbb27ec02bdf6dad",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "shard_index": 0,
+      "is_eval": false,
+      "created_at": "2026-08-07T15:01:16.874785Z"
+    },
+    {
+      "shard_id": "OPUS_shard_001",
+      "dataset": "OPUS",
+      "document_count": 20,
+      "content_hash": "414f5c633754130453700f956756f107052c4358454e167df2dcbd0dee23f3aa",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "shard_index": 1,
+      "is_eval": false,
+      "created_at": "2026-08-07T15:01:16.875227Z"
+    }
+  ]
+}

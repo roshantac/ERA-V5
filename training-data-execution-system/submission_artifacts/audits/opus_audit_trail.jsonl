@@ -1,0 +1,40 @@
+{"candidate_id": "OPUS_00000", "score": 0.8885, "decision": "ACCEPT", "accepted": true, "reason": "score 0.8885 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.883982Z"}
+{"candidate_id": "OPUS_00001", "score": 0.6724, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6724 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884005Z"}
+{"candidate_id": "OPUS_00002", "score": 0.1667, "decision": "REJECT", "accepted": false, "reason": "score 0.1667 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884023Z"}
+{"candidate_id": "OPUS_00003", "score": 0.8389, "decision": "ACCEPT", "accepted": true, "reason": "score 0.8389 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884038Z"}
+{"candidate_id": "OPUS_00004", "score": 0.7586, "decision": "ACCEPT", "accepted": true, "reason": "score 0.7586 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884053Z"}
+{"candidate_id": "OPUS_00005", "score": 0.2, "decision": "REJECT", "accepted": false, "reason": "score 0.2 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884068Z"}
+{"candidate_id": "OPUS_00006", "score": 0.3286, "decision": "REJECT", "accepted": false, "reason": "score 0.3286 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884082Z"}
+{"candidate_id": "OPUS_00007", "score": 0.0604, "decision": "REJECT", "accepted": false, "reason": "score 0.0604 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884096Z"}
+{"candidate_id": "OPUS_00008", "score": 0.6149, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6149 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884109Z"}
+{"candidate_id": "OPUS_00009", "score": 0.684, "decision": "ACCEPT", "accepted": true, "reason": "score 0.684 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884122Z"}
+{"candidate_id": "OPUS_00010", "score": 0.6134, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6134 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884136Z"}
+{"candidate_id": "OPUS_00011", "score": 0.6608, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6608 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884149Z"}
+{"candidate_id": "OPUS_00012", "score": 0.4305, "decision": "DEFER", "accepted": false, "reason": "score 0.4305 in defer_range [0.35, 0.5)", "override": false, "timestamp": "2026-08-07T15:01:16.884163Z"}
+{"candidate_id": "OPUS_00013", "score": 0.8282, "decision": "ACCEPT", "accepted": true, "reason": "score 0.8282 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884176Z"}
+{"candidate_id": "OPUS_00014", "score": 0.0672, "decision": "REJECT", "accepted": false, "reason": "score 0.0672 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884190Z"}
+{"candidate_id": "OPUS_00015", "score": 0.3402, "decision": "REJECT", "accepted": false, "reason": "score 0.3402 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884203Z"}
+{"candidate_id": "OPUS_00016", "score": 0.3799, "decision": "DEFER", "accepted": false, "reason": "score 0.3799 in defer_range [0.35, 0.5)", "override": false, "timestamp": "2026-08-07T15:01:16.884216Z"}
+{"candidate_id": "OPUS_00017", "score": 0.9903, "decision": "ACCEPT", "accepted": true, "reason": "score 0.9903 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884230Z"}
+{"candidate_id": "OPUS_00018", "score": 0.6238, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6238 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884243Z"}
+{"candidate_id": "OPUS_00019", "score": 0.0888, "decision": "REJECT", "accepted": false, "reason": "score 0.0888 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884255Z"}
+{"candidate_id": "OPUS_00020", "score": 0.2414, "decision": "REJECT", "accepted": false, "reason": "score 0.2414 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884268Z"}
+{"candidate_id": "OPUS_00021", "score": 0.1252, "decision": "REJECT", "accepted": false, "reason": "score 0.1252 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884282Z"}
+{"candidate_id": "OPUS_00022", "score": 0.8835, "decision": "ACCEPT", "accepted": true, "reason": "score 0.8835 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884294Z"}
+{"candidate_id": "OPUS_00023", "score": 0.4161, "decision": "DEFER", "accepted": false, "reason": "score 0.4161 in defer_range [0.35, 0.5)", "override": false, "timestamp": "2026-08-07T15:01:16.884307Z"}
+{"candidate_id": "OPUS_00024", "score": 0.6944, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6944 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884320Z"}
+{"candidate_id": "OPUS_00025", "score": 0.2515, "decision": "REJECT", "accepted": false, "reason": "score 0.2515 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884333Z"}
+{"candidate_id": "OPUS_00026", "score": 0.5844, "decision": "ACCEPT", "accepted": true, "reason": "score 0.5844 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884346Z"}
+{"candidate_id": "OPUS_00027", "score": 0.1024, "decision": "REJECT", "accepted": false, "reason": "score 0.1024 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884359Z"}
+{"candidate_id": "OPUS_00028", "score": 0.6511, "decision": "ACCEPT", "accepted": true, "reason": "score 0.6511 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884372Z"}
+{"candidate_id": "OPUS_00029", "score": 0.0337, "decision": "REJECT", "accepted": false, "reason": "score 0.0337 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884385Z"}
+{"candidate_id": "OPUS_00030", "score": 0.8778, "decision": "ACCEPT", "accepted": true, "reason": "score 0.8778 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884397Z"}
+{"candidate_id": "OPUS_00031", "score": 0.1201, "decision": "REJECT", "accepted": false, "reason": "score 0.1201 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884410Z"}
+{"candidate_id": "OPUS_00032", "score": 0.7982, "decision": "ACCEPT", "accepted": true, "reason": "score 0.7982 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884423Z"}
+{"candidate_id": "OPUS_00033", "score": 0.8691, "decision": "ACCEPT", "accepted": true, "reason": "score 0.8691 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884436Z"}
+{"candidate_id": "OPUS_00034", "score": 0.5943, "decision": "ACCEPT", "accepted": true, "reason": "score 0.5943 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884449Z"}
+{"candidate_id": "OPUS_00035", "score": 0.9563, "decision": "ACCEPT", "accepted": true, "reason": "score 0.9563 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884462Z"}
+{"candidate_id": "OPUS_00036", "score": 0.1847, "decision": "REJECT", "accepted": false, "reason": "score 0.1847 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884474Z"}
+{"candidate_id": "OPUS_00037", "score": 0.4259, "decision": "DEFER", "accepted": false, "reason": "score 0.4259 in defer_range [0.35, 0.5)", "override": false, "timestamp": "2026-08-07T15:01:16.884487Z"}
+{"candidate_id": "OPUS_00038", "score": 0.0803, "decision": "REJECT", "accepted": false, "reason": "score 0.0803 < defer_threshold 0.35", "override": false, "timestamp": "2026-08-07T15:01:16.884500Z"}
+{"candidate_id": "OPUS_00039", "score": 0.779, "decision": "ACCEPT", "accepted": true, "reason": "score 0.779 >= accept_threshold 0.5", "override": false, "timestamp": "2026-08-07T15:01:16.884513Z"}
