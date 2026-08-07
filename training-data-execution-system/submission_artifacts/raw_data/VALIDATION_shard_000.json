@@ -1,0 +1,214 @@
+{
+  "manifest": {
+    "shard_id": "VALIDATION_shard_000",
+    "dataset": "VALIDATION",
+    "document_count": 20,
+    "content_hash": "cbb30586720dd4ada392373b655faecad3da5c7a32cd1691a9fad4ff06f2b5ea",
+    "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+    "shard_index": 0,
+    "is_eval": true,
+    "created_at": "2026-08-07T14:36:11.993947Z"
+  },
+  "documents": [
+    {
+      "doc_id": "VALIDATION_00000",
+      "dataset": "VALIDATION",
+      "text": "floor pretraining embedding manifest tuning dataset epoch weight pipeline dog gradient code attention transformer schedule transformer checkpoint tuning neural epoch audit parameter dataset parameter over crawl audit batch data document audit rate checkpoint training audit embedding code pretraining optimizer verify mixture learning hash dog code embedding shard neural token quick network fine schedule manifest neural replay embedding batch text code sequence transformer",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 0,
+        "word_count": 62
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00001",
+      "dataset": "VALIDATION",
+      "text": "token deterministic the sequence pretraining network parameter sequence the web epoch corpus lazy network learning weight the crawl rate brown shard rate shard tuning attention brown verify checkpoint learning rate document fox book protected quick checkpoint tuning crawl document fine optimizer token tuning deterministic shard pipeline language floor lazy brown network quick text",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 1,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00002",
+      "dataset": "VALIDATION",
+      "text": "training checkpoint deterministic token model over head audit dog fox pretraining document checkpoint fox dataset lazy language rate sequence shard text deterministic quick corpus audit hash dataset checkpoint data web replay network parameter the manifest attention head audit manifest manifest fox jumps sequence protected pipeline weight training replay rate over token pretraining brown rate crawl sequence verify weight head token document deterministic audit audit the epoch rate code neural dog corpus fine book audit verify",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 2,
+        "word_count": 75
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00003",
+      "dataset": "VALIDATION",
+      "text": "book fine over dog over token replay over token dataset web document quick schedule data mixture the batch document network fine over replay gradient epoch audit hash shard sequence deterministic pipeline deterministic model epoch fox",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 3,
+        "word_count": 35
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00004",
+      "dataset": "VALIDATION",
+      "text": "checkpoint loss token rate model book dataset head layer audit sequence rate sequence token loss learning verify pretraining learning over optimizer neural web network neural schedule shard parameter pretraining audit document hash audit data brown audit web transformer training language book batch verify embedding neural shard floor hash mixture loss batch corpus verify weight",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 4,
+        "word_count": 54
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00005",
+      "dataset": "VALIDATION",
+      "text": "audit deterministic mixture rate over weight schedule batch learning batch fine learning brown dog parameter manifest document token tuning model fine web dataset network book transformer manifest web brown dataset verify lazy document neural the data head tuning corpus corpus shard lazy token neural epoch data fine language token pipeline quick pretraining floor text fine web book verify embedding replay attention tuning audit gradient learning",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 5,
+        "word_count": 65
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00006",
+      "dataset": "VALIDATION",
+      "text": "network crawl corpus tuning hash attention epoch brown layer pipeline weight lazy head embedding schedule rate book attention web quick data weight data epoch crawl verify parameter sequence book pipeline model model manifest corpus mixture fox over epoch mixture schedule training floor neural fine attention data fine the manifest training sequence token epoch epoch over token gradient batch embedding over replay gradient training hash code schedule network the tuning data neural lazy tuning code hash attention",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 6,
+        "word_count": 76
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00007",
+      "dataset": "VALIDATION",
+      "text": "batch tuning manifest transformer audit fine checkpoint gradient pipeline lazy transformer model dataset pipeline model attention schedule dataset loss protected hash replay embedding crawl attention language jumps neural optimizer manifest deterministic web quick layer crawl token schedule gradient network network corpus weight protected the text crawl pipeline attention jumps shard layer model optimizer sequence brown batch epoch embedding over corpus transformer shard token embedding training loss epoch transformer hash protected tuning brown learning head",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 7,
+        "word_count": 74
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00008",
+      "dataset": "VALIDATION",
+      "text": "data attention hash parameter audit lazy fine floor over neural hash replay lazy shard attention floor floor the data dataset model book weight transformer hash fine the optimizer shard manifest attention embedding schedule fox epoch embedding learning deterministic document dog crawl",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 8,
+        "word_count": 41
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00009",
+      "dataset": "VALIDATION",
+      "text": "weight network schedule tuning checkpoint corpus language network dog mixture token embedding language pipeline transformer hash over training the corpus checkpoint web learning sequence weight protected text replay fine embedding fox fine loss brown dog optimizer fine network fox crawl hash network learning embedding corpus hash loss schedule protected quick language rate token loss neural head quick pretraining",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 9,
+        "word_count": 58
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00010",
+      "dataset": "VALIDATION",
+      "text": "epoch document brown crawl dog neural replay brown language deterministic attention gradient token over language lazy model replay training document optimizer embedding rate neural fine verify text gradient protected audit replay protected parameter book fine brown jumps dataset network brown training crawl replay document floor lazy transformer weight replay over",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 10,
+        "word_count": 50
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00011",
+      "dataset": "VALIDATION",
+      "text": "document deterministic epoch embedding attention quick token deterministic learning replay shard deterministic over audit embedding dog mixture sequence book learning epoch text weight language mixture gradient verify floor fox network book tuning batch pipeline embedding rate deterministic verify schedule token rate weight manifest brown crawl attention token hash loss rate the",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 11,
+        "word_count": 51
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00012",
+      "dataset": "VALIDATION",
+      "text": "batch quick mixture head manifest model rate rate fine crawl mixture document dataset lazy layer layer quick checkpoint dataset layer jumps text loss replay checkpoint crawl protected fine web head document crawl corpus language transformer tuning code the corpus corpus dataset neural protected pretraining training fine deterministic optimizer batch language verify data hash transformer learning attention",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 12,
+        "word_count": 56
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00013",
+      "dataset": "VALIDATION",
+      "text": "manifest book over document optimizer code neural over batch deterministic parameter network epoch loss pipeline dataset pretraining hash fine quick training text web data text neural book embedding head pipeline quick pipeline",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 13,
+        "word_count": 32
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00014",
+      "dataset": "VALIDATION",
+      "text": "code deterministic optimizer gradient transformer language model transformer crawl dog lazy attention batch batch dog book loss token data schedule schedule deterministic attention code head neural pipeline batch head crawl rate dataset schedule network document lazy manifest hash document pipeline document dataset weight language language attention layer attention",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 14,
+        "word_count": 48
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00015",
+      "dataset": "VALIDATION",
+      "text": "pipeline fine loss protected pretraining data token attention loss the language audit corpus pipeline fine shard token hash lazy transformer web shard head head head sequence document quick text layer model text text weight over crawl book replay head quick dataset text gradient data book document tuning hash over network quick deterministic crawl mixture shard transformer code weight sequence data fine",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 15,
+        "word_count": 61
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00016",
+      "dataset": "VALIDATION",
+      "text": "replay gradient token tuning checkpoint sequence dataset model loss jumps quick batch book fine fine gradient hash crawl pretraining gradient mixture token fine weight shard dog floor crawl audit corpus data gradient fine replay jumps the deterministic brown hash hash head parameter tuning transformer jumps mixture head learning checkpoint language dog checkpoint schedule",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 16,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00017",
+      "dataset": "VALIDATION",
+      "text": "shard language checkpoint quick pretraining tuning protected replay fox loss floor attention audit protected replay schedule brown network attention checkpoint weight document shard pretraining embedding mixture dog lazy training learning pipeline protected web pipeline mixture dog replay data network head manifest corpus training gradient mixture tuning batch learning lazy corpus shard verify jumps fine checkpoint optimizer pipeline gradient pipeline learning corpus loss verify pretraining corpus mixture pretraining verify",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 17,
+        "word_count": 68
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00018",
+      "dataset": "VALIDATION",
+      "text": "book rate crawl brown pipeline model training parameter loss quick layer network book network checkpoint loss epoch checkpoint data book document epoch tuning checkpoint pretraining hash loss training deterministic floor verify model training crawl loss transformer learning document layer quick batch web epoch training web the",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 18,
+        "word_count": 46
+      }
+    },
+    {
+      "doc_id": "VALIDATION_00019",
+      "dataset": "VALIDATION",
+      "text": "network replay weight deterministic parameter attention tuning text data neural shard training web weight dataset parameter network transformer optimizer shard data parameter tuning token tuning transformer the manifest jumps corpus layer epoch batch layer training rate crawl schedule replay mixture dog shard sequence neural optimizer fine",
+      "meta": {
+        "source": "VALIDATION",
+        "index": 19,
+        "word_count": 46
+      }
+    }
+  ]
+}

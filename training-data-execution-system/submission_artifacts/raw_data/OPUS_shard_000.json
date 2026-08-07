@@ -1,0 +1,214 @@
+{
+  "manifest": {
+    "shard_id": "OPUS_shard_000",
+    "dataset": "OPUS",
+    "document_count": 20,
+    "content_hash": "b05684f28e1ddb0a35f13006f2c6fecf840f3509a2eabb11bbb27ec02bdf6dad",
+    "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+    "shard_index": 0,
+    "is_eval": false,
+    "created_at": "2026-08-07T14:36:11.991849Z"
+  },
+  "documents": [
+    {
+      "doc_id": "OPUS_00000",
+      "dataset": "OPUS",
+      "text": "epoch corpus tuning training gradient fox language verify rate document language dog quick protected brown lazy language loss lazy weight audit head training the layer quick layer embedding transformer training neural shard loss layer hash transformer hash checkpoint protected dog",
+      "meta": {
+        "source": "OPUS",
+        "index": 0,
+        "word_count": 40
+      }
+    },
+    {
+      "doc_id": "OPUS_00001",
+      "dataset": "OPUS",
+      "text": "data dog layer lazy loss neural jumps text corpus dog network over brown crawl training token embedding parameter corpus crawl token hash embedding training manifest hash epoch text protected loss neural lazy rate optimizer manifest network learning floor checkpoint floor jumps mixture the training schedule shard training dataset training transformer pretraining replay mixture mixture tuning protected jumps dog book embedding replay",
+      "meta": {
+        "source": "OPUS",
+        "index": 1,
+        "word_count": 61
+      }
+    },
+    {
+      "doc_id": "OPUS_00002",
+      "dataset": "OPUS",
+      "text": "training over dataset model token schedule transformer neural dataset optimizer embedding tuning verify head crawl mixture document corpus model floor shard gradient transformer head code optimizer language language optimizer language language protected layer transformer over web checkpoint head parameter book schedule verify floor deterministic layer verify over",
+      "meta": {
+        "source": "OPUS",
+        "index": 2,
+        "word_count": 47
+      }
+    },
+    {
+      "doc_id": "OPUS_00003",
+      "dataset": "OPUS",
+      "text": "network the batch quick network code tuning model dog fox neural network schedule protected model loss fine training audit code head gradient batch protected layer fox deterministic model dog verify checkpoint training transformer replay quick verify embedding network fox verify lazy manifest web jumps tuning",
+      "meta": {
+        "source": "OPUS",
+        "index": 3,
+        "word_count": 45
+      }
+    },
+    {
+      "doc_id": "OPUS_00004",
+      "dataset": "OPUS",
+      "text": "data quick training network training over gradient jumps the book audit protected head training pipeline token tuning deterministic model deterministic parameter verify epoch tuning head replay corpus pretraining mixture shard verify the loss dog training fox shard brown crawl pipeline token weight data the attention audit embedding hash fine code checkpoint audit learning book weight epoch checkpoint layer embedding data rate over parameter transformer model deterministic batch attention",
+      "meta": {
+        "source": "OPUS",
+        "index": 4,
+        "word_count": 68
+      }
+    },
+    {
+      "doc_id": "OPUS_00005",
+      "dataset": "OPUS",
+      "text": "fox layer attention token protected deterministic code crawl audit jumps protected verify fine tuning dataset shard shard attention protected transformer data fox floor network shard embedding sequence rate lazy lazy jumps network crawl schedule corpus quick gradient loss data language lazy jumps batch crawl the pipeline epoch sequence code sequence document brown gradient rate over book book brown book mixture tuning brown fox dataset over epoch the neural pipeline",
+      "meta": {
+        "source": "OPUS",
+        "index": 5,
+        "word_count": 69
+      }
+    },
+    {
+      "doc_id": "OPUS_00006",
+      "dataset": "OPUS",
+      "text": "attention weight sequence dataset pipeline attention replay neural model verify hash lazy corpus head deterministic weight lazy weight floor schedule training quick web mixture transformer tuning web brown loss data training hash fine over document over checkpoint layer batch floor hash shard training schedule checkpoint data weight parameter",
+      "meta": {
+        "source": "OPUS",
+        "index": 6,
+        "word_count": 48
+      }
+    },
+    {
+      "doc_id": "OPUS_00007",
+      "dataset": "OPUS",
+      "text": "crawl shard parameter schedule corpus pretraining mixture model corpus loss network text embedding brown checkpoint schedule hash transformer gradient batch text crawl jumps training book document optimizer lazy floor the training schedule epoch code floor mixture over optimizer lazy fine dataset data loss data jumps rate book network neural over jumps token checkpoint schedule fine learning tuning learning pipeline pretraining shard model dog book optimizer brown network loss attention head text hash model pretraining network weight",
+      "meta": {
+        "source": "OPUS",
+        "index": 7,
+        "word_count": 76
+      }
+    },
+    {
+      "doc_id": "OPUS_00008",
+      "dataset": "OPUS",
+      "text": "dataset network over hash head weight pretraining learning hash brown text shard fox deterministic mixture gradient verify protected code the training lazy loss transformer data book attention jumps layer transformer fine manifest over neural fine fine shard language protected fine lazy over token replay lazy attention schedule embedding sequence attention corpus jumps dataset corpus crawl optimizer batch verify deterministic tuning dog rate fine brown language training tuning training document",
+      "meta": {
+        "source": "OPUS",
+        "index": 8,
+        "word_count": 69
+      }
+    },
+    {
+      "doc_id": "OPUS_00009",
+      "dataset": "OPUS",
+      "text": "dataset book brown crawl schedule transformer fox floor network mixture embedding tuning batch fox batch quick pipeline hash embedding rate learning document token over training jumps rate attention over epoch checkpoint pretraining head parameter batch manifest learning token audit fox over embedding corpus",
+      "meta": {
+        "source": "OPUS",
+        "index": 9,
+        "word_count": 43
+      }
+    },
+    {
+      "doc_id": "OPUS_00010",
+      "dataset": "OPUS",
+      "text": "epoch data sequence neural head tuning tuning language verify mixture data verify embedding neural verify book transformer protected the code mixture crawl sequence jumps replay manifest web text training dataset manifest protected replay deterministic protected deterministic replay dataset the training fine training optimizer dataset dog mixture hash head learning parameter replay the pretraining audit model document pretraining document web lazy brown batch deterministic sequence head verify language schedule data crawl transformer batch neural batch sequence hash book the",
+      "meta": {
+        "source": "OPUS",
+        "index": 10,
+        "word_count": 78
+      }
+    },
+    {
+      "doc_id": "OPUS_00011",
+      "dataset": "OPUS",
+      "text": "protected network quick epoch epoch weight protected dog verify optimizer shard fine head head neural neural audit language embedding parameter pipeline corpus dog token fine embedding network token code crawl data language embedding transformer loss manifest verify hash embedding document loss verify text lazy over floor audit lazy over shard quick text head",
+      "meta": {
+        "source": "OPUS",
+        "index": 11,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "OPUS_00012",
+      "dataset": "OPUS",
+      "text": "optimizer deterministic pipeline text language lazy document pretraining weight web floor brown manifest loss head batch layer schedule fine code transformer dog sequence tuning dog neural mixture fine head protected shard checkpoint mixture deterministic attention the",
+      "meta": {
+        "source": "OPUS",
+        "index": 12,
+        "word_count": 36
+      }
+    },
+    {
+      "doc_id": "OPUS_00013",
+      "dataset": "OPUS",
+      "text": "mixture layer weight loss rate manifest learning epoch audit mixture head hash gradient the head brown the quick training mixture network audit protected parameter protected deterministic crawl dataset corpus data book embedding gradient code attention sequence text shard attention audit fox floor book embedding model document transformer replay token attention dataset parameter data",
+      "meta": {
+        "source": "OPUS",
+        "index": 13,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "OPUS_00014",
+      "dataset": "OPUS",
+      "text": "layer lazy checkpoint floor model weight dog document book mixture attention audit pipeline document learning audit code data dataset batch over over quick embedding the document schedule web training quick text checkpoint language over book transformer quick deterministic replay model fine document document schedule neural token gradient shard layer epoch sequence language audit gradient replay schedule floor",
+      "meta": {
+        "source": "OPUS",
+        "index": 14,
+        "word_count": 57
+      }
+    },
+    {
+      "doc_id": "OPUS_00015",
+      "dataset": "OPUS",
+      "text": "transformer schedule learning manifest fox rate over training document quick document web lazy dog fine crawl dog lazy training loss learning token over jumps optimizer network audit batch attention lazy optimizer mixture quick head jumps optimizer document jumps batch hash head transformer dataset document pretraining floor data token epoch the token manifest book document crawl brown dog corpus neural tuning text crawl language the data parameter deterministic learning dog sequence crawl quick language quick parameter weight pipeline training batch network",
+      "meta": {
+        "source": "OPUS",
+        "index": 15,
+        "word_count": 80
+      }
+    },
+    {
+      "doc_id": "OPUS_00016",
+      "dataset": "OPUS",
+      "text": "batch quick dataset model layer over replay verify model rate rate tuning sequence over neural checkpoint code shard loss fine deterministic floor optimizer embedding weight attention sequence learning token sequence hash checkpoint rate attention lazy web mixture",
+      "meta": {
+        "source": "OPUS",
+        "index": 16,
+        "word_count": 37
+      }
+    },
+    {
+      "doc_id": "OPUS_00017",
+      "dataset": "OPUS",
+      "text": "web epoch data mixture batch replay optimizer embedding pretraining embedding crawl deterministic rate protected dataset text lazy crawl transformer embedding sequence book neural network document protected jumps pretraining data brown weight learning web head loss crawl protected shard parameter neural attention quick dog token floor dataset embedding mixture token neural gradient jumps batch manifest network network training schedule dataset dog the dataset verify the checkpoint corpus batch fine book mixture dataset layer code jumps transformer loss crawl batch parameter",
+      "meta": {
+        "source": "OPUS",
+        "index": 17,
+        "word_count": 79
+      }
+    },
+    {
+      "doc_id": "OPUS_00018",
+      "dataset": "OPUS",
+      "text": "lazy code rate checkpoint crawl floor manifest jumps book shard head hash pipeline embedding dataset protected dataset sequence sequence fox floor optimizer optimizer brown rate head dog dog pretraining data crawl dataset web transformer gradient book quick loss quick shard mixture book the",
+      "meta": {
+        "source": "OPUS",
+        "index": 18,
+        "word_count": 43
+      }
+    },
+    {
+      "doc_id": "OPUS_00019",
+      "dataset": "OPUS",
+      "text": "loss model audit attention brown language parameter brown corpus shard quick jumps tuning lazy audit floor head replay epoch rate dataset pipeline neural attention over code schedule dataset optimizer text fox attention epoch verify fine optimizer shard dog audit network text lazy quick layer fox protected the model lazy dataset verify replay embedding layer data over sequence replay floor",
+      "meta": {
+        "source": "OPUS",
+        "index": 19,
+        "word_count": 59
+      }
+    }
+  ]
+}

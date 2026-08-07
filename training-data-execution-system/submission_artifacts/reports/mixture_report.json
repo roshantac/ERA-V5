@@ -1,0 +1,22 @@
+{
+  "planned": {
+    "COMMON_CRAWL": 0.5,
+    "BOOKS": 0.15,
+    "CODE": 0.25,
+    "OPUS": 0.1
+  },
+  "actual": {
+    "COMMON_CRAWL": 0.5143,
+    "BOOKS": 0.2,
+    "CODE": 0.2286,
+    "OPUS": 0.0571
+  },
+  "deviation": {
+    "COMMON_CRAWL": 0.0143,
+    "BOOKS": 0.05,
+    "CODE": -0.0214,
+    "OPUS": -0.0429
+  },
+  "total_samples": 35,
+  "generated_at": "2026-08-07T14:36:12.044895Z"
+}

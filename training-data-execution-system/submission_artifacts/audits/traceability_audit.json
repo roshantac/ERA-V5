@@ -1,0 +1,544 @@
+{
+  "result": "PASS",
+  "steps_verified": 35,
+  "failures": [],
+  "chain": "Dataset → Shard → Document → Packed Sequence → Batch → Step → Loss",
+  "trace_entries": [
+    {
+      "step": 0,
+      "batch_id": "batch_000000",
+      "loss": 3.5139,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 1,
+      "batch_id": "batch_000001",
+      "loss": 3.1848,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 2,
+      "batch_id": "batch_000002",
+      "loss": 2.9734,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 3,
+      "batch_id": "batch_000003",
+      "loss": 2.7304,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 4,
+      "batch_id": "batch_000004",
+      "loss": 2.5803,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_000",
+        "COMMON_CRAWL_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 5,
+      "batch_id": "batch_000005",
+      "loss": 2.3313,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 6,
+      "batch_id": "batch_000006",
+      "loss": 2.1706,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 7,
+      "batch_id": "batch_000007",
+      "loss": 1.9559,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 8,
+      "batch_id": "batch_000008",
+      "loss": 1.8453,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 9,
+      "batch_id": "batch_000009",
+      "loss": 1.678,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 10,
+      "batch_id": "batch_000010",
+      "loss": 1.6205,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 11,
+      "batch_id": "batch_000011",
+      "loss": 1.4635,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 12,
+      "batch_id": "batch_000012",
+      "loss": 1.3815,
+      "datasets": [
+        "COMMON_CRAWL"
+      ],
+      "shards": [
+        "COMMON_CRAWL_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 13,
+      "batch_id": "batch_000013",
+      "loss": 1.1961,
+      "datasets": [
+        "BOOKS"
+      ],
+      "shards": [
+        "BOOKS_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 14,
+      "batch_id": "batch_000014",
+      "loss": 1.1886,
+      "datasets": [
+        "BOOKS"
+      ],
+      "shards": [
+        "BOOKS_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 15,
+      "batch_id": "batch_000015",
+      "loss": 1.0084,
+      "datasets": [
+        "BOOKS"
+      ],
+      "shards": [
+        "BOOKS_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 16,
+      "batch_id": "batch_000016",
+      "loss": 0.9812,
+      "datasets": [
+        "BOOKS"
+      ],
+      "shards": [
+        "BOOKS_shard_000",
+        "BOOKS_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 17,
+      "batch_id": "batch_000017",
+      "loss": 0.8707,
+      "datasets": [
+        "BOOKS"
+      ],
+      "shards": [
+        "BOOKS_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 18,
+      "batch_id": "batch_000018",
+      "loss": 0.81,
+      "datasets": [
+        "BOOKS"
+      ],
+      "shards": [
+        "BOOKS_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 19,
+      "batch_id": "batch_000019",
+      "loss": 0.7649,
+      "datasets": [
+        "BOOKS",
+        "CODE"
+      ],
+      "shards": [
+        "BOOKS_shard_001",
+        "CODE_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 20,
+      "batch_id": "batch_000020",
+      "loss": 0.7494,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 21,
+      "batch_id": "batch_000021",
+      "loss": 0.6468,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 22,
+      "batch_id": "batch_000022",
+      "loss": 0.5998,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 23,
+      "batch_id": "batch_000023",
+      "loss": 0.5473,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_000",
+        "CODE_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 24,
+      "batch_id": "batch_000024",
+      "loss": 0.4702,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 25,
+      "batch_id": "batch_000025",
+      "loss": 0.4312,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 26,
+      "batch_id": "batch_000026",
+      "loss": 0.4614,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_001",
+        "CODE_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 27,
+      "batch_id": "batch_000027",
+      "loss": 0.4221,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 28,
+      "batch_id": "batch_000028",
+      "loss": 0.4136,
+      "datasets": [
+        "CODE"
+      ],
+      "shards": [
+        "CODE_shard_002"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 29,
+      "batch_id": "batch_000029",
+      "loss": 0.3263,
+      "datasets": [
+        "CODE",
+        "OPUS"
+      ],
+      "shards": [
+        "CODE_shard_002",
+        "OPUS_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 30,
+      "batch_id": "batch_000030",
+      "loss": 0.2749,
+      "datasets": [
+        "OPUS"
+      ],
+      "shards": [
+        "OPUS_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 31,
+      "batch_id": "batch_000031",
+      "loss": 0.2711,
+      "datasets": [
+        "OPUS"
+      ],
+      "shards": [
+        "OPUS_shard_000"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 32,
+      "batch_id": "batch_000032",
+      "loss": 0.3065,
+      "datasets": [
+        "OPUS"
+      ],
+      "shards": [
+        "OPUS_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 33,
+      "batch_id": "batch_000033",
+      "loss": 0.2448,
+      "datasets": [
+        "OPUS"
+      ],
+      "shards": [
+        "OPUS_shard_001"
+      ],
+      "token_count": 512,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    },
+    {
+      "step": 34,
+      "batch_id": "batch_000034",
+      "loss": 0.2176,
+      "datasets": [
+        "OPUS"
+      ],
+      "shards": [
+        "OPUS_shard_001"
+      ],
+      "token_count": 128,
+      "untraceable_samples": [],
+      "unknown_shards": [],
+      "traceable": true
+    }
+  ],
+  "consumption_ledger": "submission_artifacts/ledgers/consumption_ledger.jsonl",
+  "learning_ledger": "submission_artifacts/ledgers/learning_ledger.jsonl",
+  "generated_at": "2026-08-07T14:36:12.082224Z"
+}

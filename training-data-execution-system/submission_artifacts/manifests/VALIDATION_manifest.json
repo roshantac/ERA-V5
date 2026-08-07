@@ -1,0 +1,19 @@
+{
+  "dataset": "VALIDATION",
+  "doc_count": 20,
+  "num_shards": 1,
+  "is_eval": true,
+  "dataset_hash": "e64d7f5d7cee83dc3585ff3406a4db22cc7d61a4cdd9990927feaea29b199616",
+  "shards": [
+    {
+      "shard_id": "VALIDATION_shard_000",
+      "dataset": "VALIDATION",
+      "document_count": 20,
+      "content_hash": "cbb30586720dd4ada392373b655faecad3da5c7a32cd1691a9fad4ff06f2b5ea",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "shard_index": 0,
+      "is_eval": true,
+      "created_at": "2026-08-07T14:36:11.993947Z"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "manifest": {
+    "shard_id": "COMMON_CRAWL_shard_001",
+    "dataset": "COMMON_CRAWL",
+    "document_count": 40,
+    "content_hash": "e588e62f1d50df3d42baa40cad6fe72d802dac81b4e0fb26c406f7978f3ae6cf",
+    "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+    "shard_index": 1,
+    "is_eval": false,
+    "created_at": "2026-08-07T14:36:11.984538Z"
+  },
+  "documents": [
+    {
+      "doc_id": "COMMON_CRAWL_00040",
+      "dataset": "COMMON_CRAWL",
+      "text": "pipeline checkpoint tuning pretraining text the over quick learning batch audit training code replay crawl parameter embedding dog schedule loss gradient epoch dog fox gradient head document mixture text fine jumps dog audit optimizer crawl language quick document",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 40,
+        "word_count": 38
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00041",
+      "dataset": "COMMON_CRAWL",
+      "text": "book gradient checkpoint training loss embedding the text neural gradient book head token manifest manifest over parameter network jumps parameter language weight mixture weight code quick transformer tuning brown document transformer network learning deterministic quick neural mixture jumps neural gradient replay manifest document lazy schedule web deterministic pipeline corpus model brown neural language corpus protected shard token audit schedule hash fine verify",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 41,
+        "word_count": 62
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00042",
+      "dataset": "COMMON_CRAWL",
+      "text": "document token floor model jumps checkpoint schedule fine brown loss sequence brown mixture sequence brown dataset epoch weight attention protected language tuning learning brown pipeline shard sequence loss neural schedule fox shard corpus rate dog floor network embedding attention deterministic pretraining transformer corpus token optimizer verify optimizer network floor parameter rate floor over replay embedding over embedding crawl protected token",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 42,
+        "word_count": 60
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00043",
+      "dataset": "COMMON_CRAWL",
+      "text": "loss dataset lazy over dataset manifest loss epoch pretraining crawl checkpoint embedding data verify pretraining neural pretraining brown replay neural text embedding rate document mixture fox jumps manifest document attention network weight floor deterministic hash data quick training crawl hash mixture pretraining brown model jumps gradient schedule shard network network transformer book brown crawl training hash pretraining network network pretraining pipeline jumps book model",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 43,
+        "word_count": 64
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00044",
+      "dataset": "COMMON_CRAWL",
+      "text": "network attention dataset shard rate gradient dog quick deterministic token optimizer parameter transformer code dog learning schedule learning checkpoint pretraining batch text loss verify optimizer sequence dog model jumps pretraining token checkpoint pretraining over floor hash dataset manifest neural checkpoint jumps code language loss epoch data checkpoint checkpoint verify document token mixture network weight layer dog sequence mixture model gradient mixture optimizer quick",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 44,
+        "word_count": 63
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00045",
+      "dataset": "COMMON_CRAWL",
+      "text": "code book network fine floor code model text over jumps epoch attention checkpoint replay tuning parameter head schedule head protected book jumps model dataset shard jumps pretraining fine hash parameter neural model audit schedule code document web token schedule model embedding weight fox audit dog parameter training epoch data data dataset checkpoint layer",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 45,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00046",
+      "dataset": "COMMON_CRAWL",
+      "text": "parameter loss over learning sequence document code rate model document epoch text language over weight shard data web web training data manifest text replay crawl corpus audit book brown protected quick over brown shard schedule book learning shard batch schedule book head text document quick optimizer document language loss shard epoch tuning",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 46,
+        "word_count": 52
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00047",
+      "dataset": "COMMON_CRAWL",
+      "text": "floor floor hash attention epoch fine jumps verify fox data pretraining head tuning fine batch corpus crawl training dataset checkpoint dataset replay neural attention model pipeline network weight code lazy dataset gradient fine dog rate pretraining gradient training lazy fox loss transformer text head gradient",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 47,
+        "word_count": 45
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00048",
+      "dataset": "COMMON_CRAWL",
+      "text": "protected dataset book replay dataset sequence pipeline data optimizer weight fine optimizer epoch optimizer quick over attention weight fine gradient batch web neural fox fox loss optimizer crawl audit shard hash tuning loss language the lazy embedding model learning replay",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 48,
+        "word_count": 40
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00049",
+      "dataset": "COMMON_CRAWL",
+      "text": "pipeline attention network brown attention fox book code sequence network code loss jumps transformer weight pretraining pipeline code rate protected text hash text dog model lazy attention network mixture corpus code network pipeline training sequence crawl weight attention weight brown brown brown model checkpoint corpus floor tuning parameter fine training crawl weight model",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 49,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00050",
+      "dataset": "COMMON_CRAWL",
+      "text": "text dataset data attention text deterministic audit epoch web corpus weight audit weight language optimizer checkpoint book epoch tuning protected quick network corpus hash dog head web epoch mixture replay verify document quick crawl tuning learning shard mixture schedule web book layer replay fox web tuning data parameter document replay",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 50,
+        "word_count": 50
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00051",
+      "dataset": "COMMON_CRAWL",
+      "text": "schedule audit transformer training protected hash gradient brown book verify dog sequence quick pretraining dataset head training head verify batch head weight schedule text tuning deterministic replay fox checkpoint model parameter batch code dataset manifest tuning parameter transformer dataset token fine language corpus language neural hash schedule replay hash shard floor verify learning text tuning sequence gradient rate code epoch layer epoch schedule loss checkpoint batch verify checkpoint optimizer",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 51,
+        "word_count": 69
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00052",
+      "dataset": "COMMON_CRAWL",
+      "text": "tuning neural code mixture replay rate loss dog book hash language transformer attention protected neural schedule floor training loss brown loss checkpoint over neural pretraining shard learning deterministic tuning batch sequence protected language rate code verify rate model lazy text deterministic web gradient gradient fox manifest parameter layer document layer",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 52,
+        "word_count": 50
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00053",
+      "dataset": "COMMON_CRAWL",
+      "text": "lazy head corpus checkpoint tuning lazy hash schedule model the code data head shard tuning tuning shard sequence pipeline loss dataset loss shard fox schedule over shard book layer language deterministic replay brown",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 53,
+        "word_count": 33
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00054",
+      "dataset": "COMMON_CRAWL",
+      "text": "head audit token brown audit attention mixture optimizer token deterministic loss brown the epoch book crawl lazy corpus loss fine shard language parameter optimizer model weight fine rate sequence floor dog corpus data replay fine shard learning checkpoint token the deterministic",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 54,
+        "word_count": 41
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00055",
+      "dataset": "COMMON_CRAWL",
+      "text": "mixture loss book hash pipeline sequence token text document attention protected embedding weight dataset over attention manifest lazy token model tuning dataset gradient the learning transformer gradient pretraining pipeline rate corpus epoch web replay book the learning shard network verify gradient fox manifest dog fine epoch data attention hash weight checkpoint",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 55,
+        "word_count": 51
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00056",
+      "dataset": "COMMON_CRAWL",
+      "text": "epoch verify dog document loss network text layer layer model tuning training fine deterministic crawl network head verify code tuning pipeline language floor manifest protected batch pipeline gradient hash pipeline crawl mixture over parameter pretraining parameter checkpoint network jumps book dog fox audit code weight sequence book language training data dataset parameter pretraining dog hash batch checkpoint web optimizer over weight pretraining floor fox fine model weight head fine book fox code fine hash floor epoch replay quick attention",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 56,
+        "word_count": 79
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00057",
+      "dataset": "COMMON_CRAWL",
+      "text": "protected the deterministic batch web jumps brown embedding neural verify jumps language fox jumps tuning brown loss head token schedule model schedule shard replay shard head network transformer pretraining transformer transformer over hash manifest language model shard neural dog token language attention parameter model replay layer",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 57,
+        "word_count": 46
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00058",
+      "dataset": "COMMON_CRAWL",
+      "text": "pipeline quick epoch fine hash replay language embedding language transformer protected layer gradient fine neural training rate sequence replay pipeline dog brown floor manifest head text schedule quick gradient batch",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 58,
+        "word_count": 30
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00059",
+      "dataset": "COMMON_CRAWL",
+      "text": "lazy crawl brown pretraining crawl hash checkpoint fox gradient deterministic brown attention pretraining layer language batch pipeline schedule fox model weight loss layer protected replay book dataset book crawl schedule hash protected dataset gradient",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 59,
+        "word_count": 34
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00060",
+      "dataset": "COMMON_CRAWL",
+      "text": "training manifest parameter layer head epoch rate fox code web deterministic token document hash embedding code optimizer fox neural shard manifest transformer mixture parameter dataset verify head head training epoch transformer token pipeline language tuning gradient layer epoch checkpoint training floor fine fox code head head code parameter model",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 60,
+        "word_count": 49
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00061",
+      "dataset": "COMMON_CRAWL",
+      "text": "gradient learning batch corpus shard over pretraining network over language replay audit sequence fox rate transformer hash crawl crawl brown jumps sequence floor pipeline web replay manifest code batch tuning batch corpus epoch the batch sequence deterministic dog deterministic pipeline tuning gradient verify crawl checkpoint batch attention gradient code dataset schedule loss transformer fine",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 61,
+        "word_count": 54
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00062",
+      "dataset": "COMMON_CRAWL",
+      "text": "shard neural epoch learning network weight optimizer fine lazy floor replay tuning pipeline audit dataset batch network dataset head brown book layer deterministic training quick learning code web web replay head loss training sequence corpus layer transformer book audit gradient optimizer code shard hash corpus learning pipeline protected optimizer replay shard deterministic optimizer fine data replay mixture neural data model replay language optimizer token",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 62,
+        "word_count": 64
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00063",
+      "dataset": "COMMON_CRAWL",
+      "text": "shard fox parameter brown audit jumps protected manifest fox pipeline the head model audit document layer jumps checkpoint training the batch weight fine network fox text document manifest text tuning manifest optimizer quick the language code head the quick parameter replay rate language loss quick weight protected verify hash embedding floor token lazy lazy parameter training gradient sequence text parameter learning protected neural rate",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 63,
+        "word_count": 64
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00064",
+      "dataset": "COMMON_CRAWL",
+      "text": "attention over network attention fine book gradient verify layer epoch hash protected over shard shard pipeline brown over attention transformer transformer code tuning fox document the verify data over optimizer embedding shard mixture corpus book lazy parameter brown layer batch verify book tuning rate brown jumps hash rate language book manifest brown token dataset quick batch web training pipeline protected checkpoint protected attention jumps epoch data book gradient book audit transformer hash language corpus transformer pipeline deterministic model mixture verify",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 64,
+        "word_count": 80
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00065",
+      "dataset": "COMMON_CRAWL",
+      "text": "over weight deterministic neural fox lazy embedding layer audit jumps corpus crawl schedule text crawl attention schedule dataset quick document rate mixture pretraining optimizer layer neural code transformer embedding token hash web manifest transformer over schedule text loss floor gradient checkpoint jumps over rate training transformer checkpoint mixture document training deterministic transformer dataset network lazy over the epoch pretraining network pipeline rate lazy model over token embedding pretraining code code weight head lazy quick over neural",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 65,
+        "word_count": 76
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00066",
+      "dataset": "COMMON_CRAWL",
+      "text": "over crawl crawl mixture dataset transformer the loss head transformer schedule over replay code gradient book parameter data hash transformer data model rate epoch rate optimizer training jumps data embedding rate head epoch tuning mixture jumps network learning gradient replay document optimizer crawl text sequence fine lazy model epoch the attention corpus audit text transformer floor corpus pretraining corpus embedding protected protected shard crawl model",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 66,
+        "word_count": 65
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00067",
+      "dataset": "COMMON_CRAWL",
+      "text": "dataset crawl verify sequence tuning dataset token attention dataset loss deterministic verify document optimizer book mixture gradient dataset transformer rate protected mixture attention network dog book sequence web language token hash schedule code quick replay fine checkpoint batch pretraining floor loss audit verify jumps protected mixture mixture head hash",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 67,
+        "word_count": 49
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00068",
+      "dataset": "COMMON_CRAWL",
+      "text": "model document epoch gradient learning manifest training checkpoint embedding mixture transformer jumps pretraining crawl tuning web attention language weight verify head language brown mixture network verify floor language crawl document over lazy schedule gradient manifest manifest neural data shard text brown book shard hash shard attention pipeline corpus mixture embedding lazy the lazy learning layer weight deterministic parameter code web verify",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 68,
+        "word_count": 61
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00069",
+      "dataset": "COMMON_CRAWL",
+      "text": "layer pretraining network attention fine schedule hash web verify weight training neural quick tuning lazy loss head over dog audit replay training neural epoch corpus fine mixture batch parameter tuning neural tuning lazy pretraining replay verify pretraining dataset jumps epoch brown floor checkpoint dog quick corpus shard lazy hash floor data deterministic gradient parameter token code data corpus code embedding fine layer floor attention document token",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 69,
+        "word_count": 66
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00070",
+      "dataset": "COMMON_CRAWL",
+      "text": "document manifest embedding attention quick deterministic text sequence pretraining web embedding transformer the checkpoint batch batch rate pipeline checkpoint floor mixture jumps book lazy floor language token network dataset sequence fine dog learning manifest optimizer parameter document dataset crawl transformer text",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 70,
+        "word_count": 41
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00071",
+      "dataset": "COMMON_CRAWL",
+      "text": "web dog neural neural fine text token protected hash checkpoint floor epoch text web over hash model dataset dog gradient epoch dog token network verify training weight transformer head crawl model book transformer embedding token optimizer document language verify shard token code data optimizer loss model token dataset audit pretraining text fox neural the optimizer",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 71,
+        "word_count": 55
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00072",
+      "dataset": "COMMON_CRAWL",
+      "text": "sequence protected transformer code weight shard optimizer head hash optimizer head checkpoint audit pretraining optimizer data over book quick mixture pipeline layer loss brown rate layer language loss data schedule fine book deterministic schedule schedule optimizer code weight",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 72,
+        "word_count": 38
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00073",
+      "dataset": "COMMON_CRAWL",
+      "text": "book dog rate schedule language protected network language protected pipeline brown pipeline replay pretraining language batch embedding lazy deterministic audit shard pipeline gradient epoch brown pretraining learning neural protected over pretraining dog schedule floor gradient batch floor",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 73,
+        "word_count": 37
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00074",
+      "dataset": "COMMON_CRAWL",
+      "text": "web verify neural checkpoint text document embedding data text model mixture batch protected batch floor fox book neural language rate crawl language data dataset checkpoint loss loss book rate weight hash protected lazy model pipeline mixture head fox rate shard model verify model gradient training checkpoint dataset audit gradient pipeline audit hash attention optimizer training book document rate document head transformer pretraining jumps document mixture schedule over attention weight deterministic rate verify network fine optimizer dataset web",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 74,
+        "word_count": 77
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00075",
+      "dataset": "COMMON_CRAWL",
+      "text": "schedule replay over replay fine document manifest verify neural jumps mixture language attention batch embedding protected batch optimizer rate dataset audit loss corpus code book model book optimizer mixture corpus",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 75,
+        "word_count": 30
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00076",
+      "dataset": "COMMON_CRAWL",
+      "text": "pipeline fox brown lazy document mixture audit fine quick dog data pretraining fine the embedding sequence verify model shard epoch data rate over shard network learning over network manifest shard data fox attention document epoch replay verify pipeline layer embedding shard over checkpoint lazy the batch tuning jumps model web layer parameter hash pretraining the the verify corpus protected dog embedding verify model tuning jumps layer transformer over replay floor lazy lazy dataset",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 76,
+        "word_count": 73
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00077",
+      "dataset": "COMMON_CRAWL",
+      "text": "epoch model transformer schedule protected pipeline model shard hash training jumps parameter book the text shard data pretraining neural replay batch document deterministic training head text hash pretraining batch over lazy model pipeline dog web replay transformer neural embedding dataset mixture model gradient rate shard over gradient code crawl crawl replay crawl loss",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 77,
+        "word_count": 53
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00078",
+      "dataset": "COMMON_CRAWL",
+      "text": "verify quick manifest epoch batch parameter crawl weight sequence deterministic attention loss shard fox mixture mixture gradient optimizer transformer dog gradient optimizer document crawl jumps parameter the network dataset model transformer audit book head network language hash token pipeline tuning schedule jumps quick web jumps the learning batch brown fox mixture attention weight loss document checkpoint weight schedule head embedding verify attention over document language language text training rate over epoch over weight batch floor training language dataset attention",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 78,
+        "word_count": 79
+      }
+    },
+    {
+      "doc_id": "COMMON_CRAWL_00079",
+      "dataset": "COMMON_CRAWL",
+      "text": "document pipeline audit shard hash shard jumps epoch verify embedding replay gradient fox gradient over embedding dog fine text crawl fox epoch manifest deterministic manifest deterministic token dog the checkpoint model verify the data optimizer neural parameter parameter mixture protected replay learning data network model deterministic schedule rate replay dog schedule quick corpus floor embedding rate parameter jumps learning checkpoint book document jumps optimizer fine weight network",
+      "meta": {
+        "source": "COMMON_CRAWL",
+        "index": 79,
+        "word_count": 67
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "shards_verified": 12,
+  "all_passed": true,
+  "result": "PASS",
+  "details": [
+    {
+      "shard_id": "COMMON_CRAWL_shard_000",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/COMMON_CRAWL_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998136Z"
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_001",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/COMMON_CRAWL_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998317Z"
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_002",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/COMMON_CRAWL_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998445Z"
+    },
+    {
+      "shard_id": "BOOKS_shard_000",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/BOOKS_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998545Z"
+    },
+    {
+      "shard_id": "BOOKS_shard_001",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/BOOKS_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998657Z"
+    },
+    {
+      "shard_id": "CODE_shard_000",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/CODE_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998761Z"
+    },
+    {
+      "shard_id": "CODE_shard_001",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/CODE_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998855Z"
+    },
+    {
+      "shard_id": "CODE_shard_002",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/CODE_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.998944Z"
+    },
+    {
+      "shard_id": "OPUS_shard_000",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/OPUS_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.999038Z"
+    },
+    {
+      "shard_id": "OPUS_shard_001",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/OPUS_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.999140Z"
+    },
+    {
+      "shard_id": "EVAL_shard_000",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/EVAL_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.999227Z"
+    },
+    {
+      "shard_id": "VALIDATION_shard_000",
+      "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "manifest_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+      "match": true,
+      "result": "PASS",
+      "source_manifest": "submission_artifacts/manifests/VALIDATION_manifest.json",
+      "verified_at": "2026-08-07T14:36:11.999422Z"
+    }
+  ],
+  "generated_at": "2026-08-07T14:36:11.999636Z"
+}

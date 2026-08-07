@@ -1,0 +1,74 @@
+{
+  "result": "PASS",
+  "eval_datasets": [
+    "EVAL",
+    "VALIDATION"
+  ],
+  "blocked_attempts": 2,
+  "allowed_train": 10,
+  "eval_in_train": [],
+  "shard_usage": [
+    {
+      "shard_id": "COMMON_CRAWL_shard_000",
+      "dataset": "COMMON_CRAWL",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_001",
+      "dataset": "COMMON_CRAWL",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "COMMON_CRAWL_shard_002",
+      "dataset": "COMMON_CRAWL",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "BOOKS_shard_000",
+      "dataset": "BOOKS",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "BOOKS_shard_001",
+      "dataset": "BOOKS",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "CODE_shard_000",
+      "dataset": "CODE",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "CODE_shard_001",
+      "dataset": "CODE",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "CODE_shard_002",
+      "dataset": "CODE",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "OPUS_shard_000",
+      "dataset": "OPUS",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "OPUS_shard_001",
+      "dataset": "OPUS",
+      "used_for": "train"
+    },
+    {
+      "shard_id": "EVAL_shard_000",
+      "dataset": "EVAL",
+      "used_for": "eval"
+    },
+    {
+      "shard_id": "VALIDATION_shard_000",
+      "dataset": "VALIDATION",
+      "used_for": "eval"
+    }
+  ],
+  "audit_trail": "submission_artifacts/audits/firewall_audit.jsonl",
+  "generated_at": "2026-08-07T14:36:12.046260Z"
+}

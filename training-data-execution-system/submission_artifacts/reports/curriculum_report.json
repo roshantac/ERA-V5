@@ -1,0 +1,66 @@
+{
+  "stages": [
+    {
+      "stage": "warmup",
+      "step_range": [
+        0,
+        15
+      ],
+      "lane_weights": {
+        "COMMON_CRAWL": 0.6,
+        "BOOKS": 0.1,
+        "CODE": 0.2,
+        "OPUS": 0.1
+      },
+      "samples": 15,
+      "actual_mix": {
+        "BOOKS": 0.2,
+        "COMMON_CRAWL": 0.6667,
+        "CODE": 0.1333
+      }
+    },
+    {
+      "stage": "main",
+      "step_range": [
+        15,
+        35
+      ],
+      "lane_weights": {
+        "COMMON_CRAWL": 0.5,
+        "BOOKS": 0.15,
+        "CODE": 0.25,
+        "OPUS": 0.1
+      },
+      "samples": 20,
+      "actual_mix": {
+        "BOOKS": 0.2,
+        "COMMON_CRAWL": 0.4,
+        "CODE": 0.3,
+        "OPUS": 0.1
+      }
+    },
+    {
+      "stage": "cooldown",
+      "step_range": [
+        35,
+        9999
+      ],
+      "lane_weights": {
+        "COMMON_CRAWL": 0.4,
+        "BOOKS": 0.2,
+        "CODE": 0.25,
+        "OPUS": 0.15
+      },
+      "samples": 0,
+      "actual_mix": {}
+    }
+  ],
+  "transitions": [
+    {
+      "step": 15,
+      "from_stage": "warmup",
+      "to_stage": "main"
+    }
+  ],
+  "generated_at": "2026-08-07T14:36:12.045472Z"
+}

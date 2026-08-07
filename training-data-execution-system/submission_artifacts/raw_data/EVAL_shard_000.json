@@ -1,0 +1,214 @@
+{
+  "manifest": {
+    "shard_id": "EVAL_shard_000",
+    "dataset": "EVAL",
+    "document_count": 20,
+    "content_hash": "e1b05a05ba72ab6240dac07bf662b778542248c4113e127968414e3147fcf06a",
+    "tokenizer_hash": "d77225fe63eba8f508982c80bf942d1f1492ef248ae959d86708df192ec20b2e",
+    "shard_index": 0,
+    "is_eval": true,
+    "created_at": "2026-08-07T14:36:11.993108Z"
+  },
+  "documents": [
+    {
+      "doc_id": "EVAL_00000",
+      "dataset": "EVAL",
+      "text": "manifest embedding language fox manifest epoch brown language pipeline neural quick crawl pipeline corpus audit learning floor pipeline web batch pipeline quick corpus replay audit text embedding embedding mixture replay deterministic pipeline fox floor lazy code transformer replay hash loss language",
+      "meta": {
+        "source": "EVAL",
+        "index": 0,
+        "word_count": 41
+      }
+    },
+    {
+      "doc_id": "EVAL_00001",
+      "dataset": "EVAL",
+      "text": "embedding book replay book schedule parameter learning data transformer fine deterministic gradient model the rate floor hash rate over gradient schedule language loss corpus book attention brown text rate network rate manifest learning mixture shard floor schedule crawl the dog epoch book manifest dataset audit learning token pretraining fine quick pretraining the fine brown neural tuning document code batch",
+      "meta": {
+        "source": "EVAL",
+        "index": 1,
+        "word_count": 59
+      }
+    },
+    {
+      "doc_id": "EVAL_00002",
+      "dataset": "EVAL",
+      "text": "fox web over rate text code dataset jumps pretraining token learning schedule mixture rate learning optimizer model layer document token training text shard fox layer dog shard brown token hash weight pretraining web dataset brown code checkpoint layer fox checkpoint learning learning quick hash neural language checkpoint brown crawl gradient neural lazy jumps weight pretraining dog",
+      "meta": {
+        "source": "EVAL",
+        "index": 2,
+        "word_count": 56
+      }
+    },
+    {
+      "doc_id": "EVAL_00003",
+      "dataset": "EVAL",
+      "text": "jumps gradient batch dataset book network audit protected hash head jumps shard embedding loss training quick dataset crawl mixture network corpus head shard network tuning loss text quick data network brown loss training web quick lazy crawl batch floor dataset weight checkpoint schedule deterministic weight mixture web checkpoint neural batch transformer audit web brown manifest replay training transformer pipeline shard over jumps",
+      "meta": {
+        "source": "EVAL",
+        "index": 3,
+        "word_count": 62
+      }
+    },
+    {
+      "doc_id": "EVAL_00004",
+      "dataset": "EVAL",
+      "text": "book weight book document code replay head language replay dog parameter floor fox crawl tuning manifest parameter parameter pretraining dataset rate sequence audit book loss gradient corpus gradient floor schedule network layer fine dataset deterministic dog verify gradient pretraining replay head network over neural",
+      "meta": {
+        "source": "EVAL",
+        "index": 4,
+        "word_count": 44
+      }
+    },
+    {
+      "doc_id": "EVAL_00005",
+      "dataset": "EVAL",
+      "text": "weight jumps network shard tuning crawl layer pretraining mixture head layer book protected protected model language gradient schedule head hash web manifest model crawl learning mixture loss corpus dataset dog over head head weight training book optimizer document schedule sequence token fine the data dog head learning pipeline code checkpoint tuning deterministic lazy model brown audit embedding quick verify data jumps model weight parameter transformer",
+      "meta": {
+        "source": "EVAL",
+        "index": 5,
+        "word_count": 65
+      }
+    },
+    {
+      "doc_id": "EVAL_00006",
+      "dataset": "EVAL",
+      "text": "neural model attention verify code gradient checkpoint loss dog corpus protected corpus web crawl text lazy replay brown jumps deterministic neural pretraining head document pretraining deterministic audit embedding loss pipeline tuning verify model replay token replay schedule web protected weight over training the web web network hash shard fine transformer dataset pretraining token weight replay web rate",
+      "meta": {
+        "source": "EVAL",
+        "index": 6,
+        "word_count": 57
+      }
+    },
+    {
+      "doc_id": "EVAL_00007",
+      "dataset": "EVAL",
+      "text": "lazy layer epoch optimizer corpus fox book parameter parameter web weight embedding loss dataset transformer dataset pipeline token training brown protected deterministic replay batch embedding parameter rate book text dataset lazy neural loss data dog loss rate optimizer pretraining layer data loss learning crawl pipeline lazy layer manifest rate training lazy batch code audit weight pipeline data quick crawl brown language language floor sequence the optimizer audit protected quick network batch loss book embedding replay pretraining parameter model audit",
+      "meta": {
+        "source": "EVAL",
+        "index": 7,
+        "word_count": 79
+      }
+    },
+    {
+      "doc_id": "EVAL_00008",
+      "dataset": "EVAL",
+      "text": "loss dog checkpoint checkpoint dog pretraining embedding optimizer learning over model rate replay manifest dog neural floor over deterministic mixture layer replay jumps dataset data weight corpus rate fine document deterministic weight hash schedule jumps checkpoint verify dataset brown embedding lazy checkpoint mixture parameter dataset sequence audit code manifest audit document brown document document the gradient model web transformer",
+      "meta": {
+        "source": "EVAL",
+        "index": 8,
+        "word_count": 59
+      }
+    },
+    {
+      "doc_id": "EVAL_00009",
+      "dataset": "EVAL",
+      "text": "hash sequence learning tuning training optimizer protected token replay optimizer loss model sequence document over parameter replay deterministic batch the embedding jumps optimizer code text batch checkpoint token brown head verify learning text transformer document web gradient document neural tuning parameter manifest token epoch",
+      "meta": {
+        "source": "EVAL",
+        "index": 9,
+        "word_count": 44
+      }
+    },
+    {
+      "doc_id": "EVAL_00010",
+      "dataset": "EVAL",
+      "text": "loss manifest optimizer optimizer mixture document attention crawl neural language tuning loss lazy layer dog pipeline pipeline loss head pretraining dataset gradient manifest embedding dog token fine dataset manifest dog neural verify attention checkpoint model schedule tuning audit floor optimizer crawl head hash gradient",
+      "meta": {
+        "source": "EVAL",
+        "index": 10,
+        "word_count": 44
+      }
+    },
+    {
+      "doc_id": "EVAL_00011",
+      "dataset": "EVAL",
+      "text": "loss rate weight batch mixture head fox code schedule dataset learning hash dataset head attention floor pretraining embedding attention learning fox rate optimizer replay layer corpus document protected brown epoch pretraining",
+      "meta": {
+        "source": "EVAL",
+        "index": 11,
+        "word_count": 31
+      }
+    },
+    {
+      "doc_id": "EVAL_00012",
+      "dataset": "EVAL",
+      "text": "layer book data language batch schedule document dog text text corpus model crawl language quick replay quick floor transformer over schedule checkpoint corpus neural schedule schedule code jumps shard fox parameter batch network language sequence data audit language attention checkpoint layer loss floor data network corpus head batch code replay gradient the brown quick pipeline parameter",
+      "meta": {
+        "source": "EVAL",
+        "index": 12,
+        "word_count": 56
+      }
+    },
+    {
+      "doc_id": "EVAL_00013",
+      "dataset": "EVAL",
+      "text": "weight attention mixture optimizer brown data loss epoch quick layer document schedule verify gradient brown rate deterministic dog protected mixture transformer shard attention model protected deterministic rate over jumps jumps weight replay checkpoint pipeline replay head",
+      "meta": {
+        "source": "EVAL",
+        "index": 13,
+        "word_count": 36
+      }
+    },
+    {
+      "doc_id": "EVAL_00014",
+      "dataset": "EVAL",
+      "text": "the deterministic audit language crawl training lazy deterministic web mixture attention sequence audit crawl epoch mixture dataset embedding weight deterministic quick epoch rate fine sequence lazy learning shard book tuning transformer",
+      "meta": {
+        "source": "EVAL",
+        "index": 14,
+        "word_count": 31
+      }
+    },
+    {
+      "doc_id": "EVAL_00015",
+      "dataset": "EVAL",
+      "text": "embedding over layer head code rate tuning loss verify language weight gradient transformer quick optimizer replay attention network pipeline language checkpoint lazy pretraining layer book quick attention schedule layer pretraining network tuning book lazy shard epoch corpus training floor document over lazy code data batch optimizer web gradient",
+      "meta": {
+        "source": "EVAL",
+        "index": 15,
+        "word_count": 48
+      }
+    },
+    {
+      "doc_id": "EVAL_00016",
+      "dataset": "EVAL",
+      "text": "training attention text audit tuning parameter replay audit book pipeline layer fox schedule optimizer learning head epoch deterministic corpus audit training brown dataset verify book crawl head the rate verify batch pipeline code mixture optimizer",
+      "meta": {
+        "source": "EVAL",
+        "index": 16,
+        "word_count": 35
+      }
+    },
+    {
+      "doc_id": "EVAL_00017",
+      "dataset": "EVAL",
+      "text": "optimizer dataset shard gradient dataset fine checkpoint tuning weight code deterministic replay over lazy embedding verify jumps transformer model pipeline the data parameter deterministic dog data sequence pretraining dog brown embedding optimizer data document floor parameter optimizer model deterministic code head attention the loss dog embedding loss replay hash rate parameter dataset text network book shard data training loss parameter hash batch floor text",
+      "meta": {
+        "source": "EVAL",
+        "index": 17,
+        "word_count": 64
+      }
+    },
+    {
+      "doc_id": "EVAL_00018",
+      "dataset": "EVAL",
+      "text": "network parameter crawl learning tuning fine batch corpus deterministic replay model data parameter checkpoint audit tuning the dataset head token training tuning jumps the epoch verify sequence sequence verify lazy language fine corpus lazy fox text fine crawl data jumps neural document code layer neural document the sequence rate loss protected embedding web replay epoch network text schedule attention learning code language shard manifest sequence jumps web training lazy replay batch rate token learning book",
+      "meta": {
+        "source": "EVAL",
+        "index": 18,
+        "word_count": 75
+      }
+    },
+    {
+      "doc_id": "EVAL_00019",
+      "dataset": "EVAL",
+      "text": "model floor parameter web shard schedule transformer corpus book schedule web crawl rate floor deterministic text manifest tuning batch data the mixture layer batch over floor text training training data tuning the dataset jumps fox model",
+      "meta": {
+        "source": "EVAL",
+        "index": 19,
+        "word_count": 36
+      }
+    }
+  ]
+}

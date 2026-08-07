@@ -1,0 +1,9 @@
+{
+  "shards_packed": 10,
+  "tokens_used": 16824,
+  "tokens_possible": 17536,
+  "packing_efficiency": 0.9594,
+  "errors": [],
+  "result": "PASS",
+  "generated_at": "2026-08-07T14:36:12.023906Z"
+}
