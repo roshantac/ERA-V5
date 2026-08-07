@@ -1,9 +1,0 @@
-{
-  "checkpoint_batch": "batch_000022",
-  "expected_next": "batch_000023",
-  "resumed_batch": "batch_000023",
-  "match": true,
-  "result": "PASS",
-  "crash_at_step": 22,
-  "generated_at": "2026-08-07T14:36:12.044285Z"
-}
